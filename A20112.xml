@@ -1,0 +1,1088 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians tryumph, manifested by the certitude of saluation deliuered in a sermon at Pauls-Crosse on Trinity Sunday, the 15 of Iune, 1617 / by Nathanael Delaune ...</title>
+            <author>Delawne, Nathaniel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20112</idno>
+            <idno type="STC">STC 6550.5</idno>
+            <idno type="STC">ESTC S2567</idno>
+            <idno type="EEBO-CITATION">24333552</idno>
+            <idno type="OCLC">ocm 24333552</idno>
+            <idno type="VID">27525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians tryumph, manifested by the certitude of saluation deliuered in a sermon at Pauls-Crosse on Trinity Sunday, the 15 of Iune, 1617 / by Nathanael Delaune ...</title>
+                  <author>Delawne, Nathaniel.</author>
+               </titleStmt>
+               <extent>[10], 86 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.O. for Iohn Pyper, and are to be sold at his shop at Pauls gate next Cheap-side at the signe of the Crosse-keyes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-F⁸.</note>
+                  <note>Error in paging: p. 41 misnumbered 42.</note>
+                  <note>Reproduction of original in the Union Theological Seminary (New York, N.Y.). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27525:1"/>
+            <pb facs="tcp:27525:1"/>
+            <p>THE CHRISTIANS TRYVMPH.</p>
+            <p>
+               <hi>Manifeſted</hi> By the Certitude of Saluation.</p>
+            <p>
+               <hi>Deliuered</hi> In a Sermon at <hi>Pauls-Croſſe</hi> on Trinity Sunday, the 15. of Iune. 1617.</p>
+            <p>
+               <hi>By</hi> NATHANAEL DELAVNE, <hi>Mi<g ref="char:EOLhyphen"/>niſter of the word of God at Saint Se<g ref="char:EOLhyphen"/>pulchers. And Chaplein in Or<g ref="char:EOLhyphen"/>dinarie to the Kings Maieſtie.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>N. O.</hi> for <hi>Iohn Pyper,</hi> and are to be ſold at his ſhop at <hi>Pauls</hi> gate next Cheap-ſide at the ſigne of the Croſſe-keyes. 1617.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:27525:2"/>
+            <pb facs="tcp:27525:2"/>
+            <head>To the moſt Reue<g ref="char:EOLhyphen"/>rend <hi>Father in God,</hi> GEORGE by the Diuine pro<g ref="char:EOLhyphen"/>uidence, Lord, Arch-biſhop of Canterbury, <hi>Primate and Me<g ref="char:EOLhyphen"/>tropolitan of all</hi> England, <hi>and one of</hi> his Maieſties moſt Honora<g ref="char:EOLhyphen"/>ble Priuie Counſell, grace and glorie bee <hi>Multiplied.</hi>
+            </head>
+            <opener>
+               <salute>MOST REVEREND.</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>F making many Bookes there is no ende.</hi> It is true.<note place="margin">Eccleſ. 12.12.</note> Becauſe errour in Doctrine, corrup<g ref="char:EOLhyphen"/>tion in manners haue no end. What ſurceaſe therefore from preaching, yea from writing,
+<pb facs="tcp:27525:3"/> as long as hereſie dares ſhew ſhew her face, and wickedneſſe walke the ſtreetes? Many friends deſired to renew their memorie, and refreſh their comfort in reading printed, that which once they heard preached. And after many de<g ref="char:EOLhyphen"/>layes, I was mooued to ſatisfie their godly affection. Neuer<g ref="char:EOLhyphen"/>theleſſe experience ſhall finde it true, that there is great dif<g ref="char:EOLhyphen"/>ference betweene preaching, and printing; the tongue and the penne: as betwixt a quicke, and a dead body: Yet laying a ſide the Action, which is the life of perſwaſion, I made no difficulty to wrap my ſelfe in dead letters, to helpe memorie in thoſe that were preſent, and to extend the benefit of Gods word to others that were ab<g ref="char:EOLhyphen"/>ſent.
+<pb facs="tcp:27525:3"/> And though the condi<g ref="char:EOLhyphen"/>tion of my perſon be to low, to clime ſo high: and the forme I haue giuen to this myſticall ſubiect be to meane, to be pre<g ref="char:EOLhyphen"/>ſented to your Grace. Yet your manifold fauours ſeeme to challenge as due, and to draw from mee this token of thankefulneſſe, in dedicating vnto your Grace this my firſt performance in ſo publike a place. For you cheered me in my calling at my firſt comming ouer from <hi>France</hi> in the yeare 1611. and now you haue re<g ref="char:EOLhyphen"/>newed your fauours in 1616. vpon the ſight of my teſtimo<g ref="char:EOLhyphen"/>niall certificates from the Churches and Synods of <hi>France,</hi> concerning my thir<g ref="char:EOLhyphen"/>teene yeares ſeruice in the <hi>French</hi> Miniſterie without ſpot
+<pb facs="tcp:27525:4"/> or diſ-reputation, and finally you haue admitted mee into this floriſhing Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in the which I receiued my firſt breathing. This ſmall offering is no more in regard of my debt, then <hi>Stillicidium de ſitula,</hi> or <hi>Spicilegium de meſſe,</hi> much like the ſhort meaſures of this age, wherein many debtors pay by the ſhilling what they owe by the pound; as a ſhicle of ſiluer, for a talent of gold. Yet this ſmall and light ſheafe, which this weake hand hath brought for the making vp ſome of the bundle of Gods harueſt, ſhall by your Graces acceptance become perhaps in reputation deare, and the bar<g ref="char:EOLhyphen"/>ren ſoile it ſelfe, which brought it forth, ſhall by the continu<g ref="char:EOLhyphen"/>ance of your wonted good
+<pb facs="tcp:27525:4"/> aſpect, be better heartened to bring forth hereafter <hi>Laetiorem ſegetem.</hi> So with my heartieſt prayers vnto God for the en<g ref="char:EOLhyphen"/>creaſe of happineſſe to your Graces perſon, and to this Church,<note place="margin">Act. 20.28.</note> 
+               <hi>ouer the which the holy Ghoſt hath made you a ſupreame ouer-ſeer.</hi> I humbly take my leaue, and euer will reſt,</p>
+            <closer>
+               <signed>Your Graces in all Chri<g ref="char:EOLhyphen"/>ſtian duties to bee commanded, <hi>NATHANAELL DELAVNE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:27525:5"/>
+            <head>The Contents of this Sermon.</head>
+            <list>
+               <item>
+                  <hi>1. A</hi> Preface. <hi>1.</hi> from a point of wiſdome. <hi>2.</hi> from the excellency of faith.</item>
+               <item>
+                  <hi>2.</hi> The coherence. Where the que<g ref="char:EOLhyphen"/>ſtion is decided, of what faith Chriſt ſpeaketh, and the diuers kindes.</item>
+               <item>
+                  <hi>3.</hi> The maine doctrine. Of cer<g ref="char:EOLhyphen"/>titude of ſaluation againſt doubts. Where iuſtifying faith is defined, and diuided.</item>
+               <item>
+                  <hi>4.</hi> Againſt the Church of Rome. Whoſe Doctrine is layed open, with the Originall, and ſtate of this Controuerſie.</item>
+               <item>
+                  <hi>5. Part 1.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The truth confirmed. By this Argument.
+<pb facs="tcp:27525:5"/> The prohibition of doubt, and nature of faith.</item>
+               <item>
+                  <hi>6.</hi> The grounds of this certitude. <hi>1.</hi> Gods mercies. <hi>2.</hi> Chriſts merrits, &amp;c. <hi>3.</hi> The Word and Sacraments. <hi>4.</hi> Gods ſpirit and ours.</item>
+               <item>
+                  <hi>7.</hi> Perſeuerance certaine. Be<g ref="char:EOLhyphen"/>cauſe it is grounded, on God the
+<list>
+                     <item>Father.</item>
+                     <item>Sonne.</item>
+                     <item>Holy Ghoſt.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>8. Part 2.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<list>
+                     <item>
+                        <hi>Ob. 1.</hi> Againſt Certitude of faith. By teſtimony, out of the Old and New <hi>Teſtament.</hi>
+                     </item>
+                     <item>
+                        <hi>Ob. 2.</hi> Againſt Perſeuerance. By
+<list>
+                           <item>
+                              <hi>1.</hi> Teſtimony from the Old, and New <hi>Teſtament.</hi>
+                           </item>
+                           <item>
+                              <hi>2.</hi> Examples.</item>
+                           <item>
+                              <hi>3.</hi> Reaſons. <hi>4.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>9. Vſe.</hi> And concluſion.
+<list>
+                     <item>
+                        <hi>1.</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Againſt Papiſts.</item>
+                     <pb facs="tcp:27525:6"/>
+                     <item>
+                        <hi>2.</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Againſt Hypocrites.</item>
+                     <item>
+                        <hi>3.</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Conſolation for the Weake.</item>
+                     <item>
+                        <hi>4.</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Exhortation to the Stronge.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:27525:6"/>
+            <head>A SERMON, Preached at Pauls-Croſſe on Trinity Sunday, <hi>the</hi> 15. <hi>day of Iune.</hi> 1617.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MATH. 14.31.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; O thou of little faith, wherefore didſt thou doubt?</p>
+               </q>
+            </epigraph>
+            <div type="part">
+               <head>Preface.</head>
+               <p n="1">I <seg rend="decorInit">R</seg>Ight Honorable, Right Worſhip<g ref="char:EOLhyphen"/>full, and welbelo<g ref="char:EOLhyphen"/>ued in our Lord and Sauiour Ieſus Chriſt. The Souldier is trained vp at home, for warre abroad: The Marriner prouideth his Bisket, ere
+<pb n="2" facs="tcp:27525:7"/> he ſtrike vp ſaile: The Merchant aſſureth his wealth, and euery No<g ref="char:EOLhyphen"/>ble man his lands in the beſt faſhion they can: And it is counted wiſe<g ref="char:EOLhyphen"/>dome in all theſe to ſettle their tem<g ref="char:EOLhyphen"/>porall eſtate for the encreaſe of their ioy and happineſſe in this life.</p>
+               <p>It is no leſſe wiſdome (beloued) in a Chriſtian in time of peace to foreſee the calamities of warre; du<g ref="char:EOLhyphen"/>ring Health to preuent Sickneſſe; during Life to bee armed againſt Death: that ſo aſſuring our ſpiritual eſtate before God, wee may with greater courage fight the Lords battailes; with greater boldneſſe ſaile on this Ocean: with greater ioye embrace the riches of Gods mercies, pledges of that eternall inheritance reſerued for his Saints in the Land of the liuing.</p>
+               <p>To this end haue I made choice of this Text, where Chriſt reproo<g ref="char:EOLhyphen"/>uing <hi>Peter</hi> for his wauering, ſhall teach vs to aſſure our ſelues fore<g ref="char:EOLhyphen"/>uer, ſaying, <hi>O man of little faith, wher<g ref="char:EOLhyphen"/>fore didſt thou doubt?</hi>
+               </p>
+               <p n="2">
+                  <pb n="3" facs="tcp:27525:7"/>II. Moſt glorious things are reported of thee O Citie of the li<g ref="char:EOLhyphen"/>uing God, and what wonderfull things doe wee heare of thee, O Chriſtian faith? Thou art the Soule of our ſoules, for <hi>the iuſt ſhall liue by faith</hi>
+                  <note n="a" place="margin">Abbac. 2</note>. Thou clotheſt vs with righ<g ref="char:EOLhyphen"/>teouſneſſe before God and man; before God, for <hi>the righteouſneſſe of God is reuealed in the Goſpell from faith to faith</hi>
+                  <note n="b" place="margin">Rom. 1.17.</note>. Before man, for thou art a mother-vertue, <hi>faith working by charity</hi>
+                  <note n="c" place="margin">Gal. 5.</note>. By thee <hi>Chriſt dwelleth in our hearts</hi>
+                  <note n="d" place="margin">Eph. 3. Rom. 3.</note>. By thee we are <hi>reconci<g ref="char:EOLhyphen"/>led to God, and iustified before him.</hi> By thee we are ſanctified, and <hi>our hearts are purified</hi>
+                  <note n="e" place="margin">Act. 15.</note>. By thee <hi>wee are ſaued</hi>
+                  <note n="f" place="margin">Eph. 2.</note>. Without thee <hi>whatſoeuer is done, is a ſinne</hi>
+                  <note n="g" place="margin">Rom. 14.</note>. Without thee <hi>none can pleaſe God</hi>
+                  <note n="h" place="margin">Heb. 11.</note>. None can <hi>pray aright</hi>
+                  <note n="i" place="margin">Rom. 10</note>. None can hope <hi>for any good thing</hi>
+                  <note n="k" place="margin">Iam. 1.</note>. If wee fight againſt ſinne and Satan, the Spirit and the Word muſt bee our ſwords, but <hi>wee muſt take vp the ſhield of faith to quench all the fiery darts of the wicked</hi>
+                  <note n="l" place="margin">Eph. 6.</note>. If wee conquer, it muſt bee by thy meanes, <hi>for this is
+<pb n="4" facs="tcp:27525:8"/> our victorie, that ouercommeth the world namely our faith.</hi>
+                  <note n="m" place="margin">1. Ioh. 5</note>
+               </p>
+               <p>So that without faith, wee are dead in ſinne, polluted in iniquity, odious to God and man. Wee lie open to all the wiles of Satan, and the world, and to all the iudge<g ref="char:EOLhyphen"/>ments of God, temporall and eter<g ref="char:EOLhyphen"/>nall.</p>
+               <p n="3">III. And yet againſt this liuely and iuſtifying faith, the Church of <hi>Rome</hi> armes her ſelfe, troubles her braines, ſpends her wealth, waſtes her ſtrength, muſters her men, ga<g ref="char:EOLhyphen"/>thers her forces, reares her battle<g ref="char:EOLhyphen"/>ments, as if there were no greater glorie in the houſe of faith, then to bee faithleſſe, in the Temple of the LORD, then to bee a<g ref="char:EOLhyphen"/>gainſt the Lord, in the Land of peace, then to bee in continuall warre.</p>
+               <p>Therefore to diſcouer the miſe<g ref="char:EOLhyphen"/>rable condition of that Church, and our happy eſtate by reaſon of the Goſpell, I haue fixed my meditati<g ref="char:EOLhyphen"/>ohs on this verſe I haue read vnto you. Where <hi>Peters</hi> ſlidings, ſhall
+<pb n="5" facs="tcp:27525:8"/> make vs ſtand faſt, his ſinking ſhall teach vs to ſwimme, and his doub<g ref="char:EOLhyphen"/>ting ſhall ſo confirme vs, that wil<g ref="char:EOLhyphen"/>lingly none of vs will euer be guil<g ref="char:EOLhyphen"/>ty of this reproofe. <hi>O man of little faith, wherefore didſt thou doubt?</hi> And ſo I come to my Text.</p>
+            </div>
+            <div type="part">
+               <head>Coherence.</head>
+               <p n="4">IIII. After the miracle of 500. men fed with fiue loues, and two fiſhes.</p>
+               <p>Chriſt conſtrained his diſciples to get into a ſhip,<note place="margin">Verſ. 22.</note> and to goe before him vnto the other ſide, while hee ſent the multitude away. That don,<note place="margin">23.</note> he went into a mountaine to pray. But in the euening the ſhip being in the midſt of the ſea,<note place="margin">24.</note> toſſed with waues, becauſe the winde was con<g ref="char:EOLhyphen"/>trarie.<note place="margin">Verſ 25.</note> In the fourth watch of the night, Ieſus went vnto them wal<g ref="char:EOLhyphen"/>king on the ſea.<note place="margin">26.</note> The diſciples ſee<g ref="char:EOLhyphen"/>ing this were troubled, and ſaid. It is a ſpirit, ſo they cried out for feare. But Chriſt aſſuring them,<note place="margin">27.</note>
+                  <pb n="6" facs="tcp:27525:9"/> And <hi>Peter</hi> for greater proofe deſi<g ref="char:EOLhyphen"/>ring to goe vnto him on the wa<g ref="char:EOLhyphen"/>ters.<note place="margin">28</note> It was granted, and perfor<g ref="char:EOLhyphen"/>med.<note place="margin">30</note> But the wind being great, <hi>Peter</hi> feared, and ſo ſinking cried. Lord ſaue mee.<note place="margin">31</note> And immediately Chriſt ſtretched forth his hand, and caught him, and ſaid vnto him. <hi>O thou of little faith, wherefore didſt thou doubt?</hi>
+               </p>
+               <p>And when he was come into the ſhip,<note place="margin">32</note> the winde ceaſed. Then they that were in the ſhip came and worſhipped him,<note place="margin">33</note> ſaying, <hi>Of a truth thou art the Sonne of God.</hi>
+               </p>
+               <p>This is the Coherence, and iſſue of the Hiſtorie. So that Chriſt gaue vnto <hi>Peter</hi> a ſufficient proofe of his humane and Diuine nature. Of his humane nature, by walking on the waters: for it was not a ſpirit. <hi>Peter</hi> knew that by his owne experience, as <hi>Hierome</hi> obſerueth againſt <hi>Marcion.</hi>
+               </p>
+               <p>Of his Diuine nature, making the waters ſtiffe as a pauement to walke vpon.</p>
+               <pb n="7" facs="tcp:27525:9"/>
+               <p>Thus <hi>Peter</hi> beleeuing both, be<g ref="char:EOLhyphen"/>gan well, but continuing not in the like zeale, nay, fearing more the windes and waues, then hee truſted Chriſts power, and word, ſo hee ſinkes. But Chriſt in mercie ſaues him, yet in wiſdome checkes him, that all men might know this pe<g ref="char:EOLhyphen"/>rill of drowning, proceeded not from want of good will, and power in Chriſt; but from want of faith in <hi>Peter.</hi> And therefore hee ſaid, <hi>O man of little faith, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Queſtion is.</head>
+               <p n="5">V.<note place="margin">Diuerſe kindes of faith.</note> Of what faith Chriſt ſpeak<g ref="char:EOLhyphen"/>eth, Diuines diſtinguiſh faith with the Schooles into <hi>fides quam, &amp; fides qua credimus,</hi> a faith which, and an other wherewith wee doe beleeue. That is the Obiect and is in Scrip<g ref="char:EOLhyphen"/>ture. This is the habite, or guift of Gods Spirit, and is wrought in man.</p>
+               <p>Againe this faith, <hi>qua credimus,</hi> wherewith wee beleeue, is <hi>Common,</hi>
+                  <pb n="8" facs="tcp:27525:10"/> or <hi>proper. Common</hi> to good and bad, Elect, and Reprobate, as the <hi>Hiſto<g ref="char:EOLhyphen"/>ricall</hi> faith, the <hi>Temporarie</hi> and <hi>Mi<g ref="char:EOLhyphen"/>raculous</hi> faith. The one <hi>Extraordi<g ref="char:EOLhyphen"/>narie,</hi> as the faith of miracles. The other two <hi>Ordinary.</hi>
+               </p>
+               <p>That which is <hi>proper</hi> to the Elect, is the iuſtifying faith.</p>
+               <p>They <hi>differ</hi> in their <hi>Obiect,</hi> and <hi>Subiect.</hi> In their <hi>Obiect,</hi> namely the <hi>Word,</hi> for if the word be but a narra<g ref="char:EOLhyphen"/>tion, then faith beleeuing it to bee true, is but <hi>Hiſtoricall.</hi> If the word containe a promiſe and guift of grace in Chriſt, then the vnderſtan<g ref="char:EOLhyphen"/>ding apprehending it as a truth, and that with ſome ioy, makes a <hi>tempo<g ref="char:EOLhyphen"/>rarie</hi> faith. But applying it to the heart by the ſpirit of Adoption, creates a <hi>iuſtifying</hi> faith. And if the promiſe bee to ſhew forth Gods will and power, then it is a <hi>faith of miracles.</hi>
+               </p>
+               <p>In their <hi>Subiect,</hi> for the one is in the vnderſtanding onely, the other in the braine and heart; Nay it poſ<g ref="char:EOLhyphen"/>ſeſſeth the whole ſoule, and com<g ref="char:EOLhyphen"/>prehends
+<pb n="9" facs="tcp:27525:10"/> all the other kindes of faith, as being the moſt perfect, I meane this iuſtifying, liuely, and ſa<g ref="char:EOLhyphen"/>uing faith, <hi>which receiueth Chriſt, and maketh vs the children of God</hi>
+                  <note n="a" place="margin">Ioh. 1.1.</note>.</p>
+               <p>Now Chriſt ſpeakes heere of a <hi>faith of Miracles,</hi> which againe is two-fold, <hi>Actiue,</hi> or <hi>paſſiue, Actiue,</hi> when a man by Chriſts word and power is able to worke a miracle, of the which <hi>Paul</hi> ſpeakes<note n="b" place="margin">1. Cor. 13.</note>. <hi>If I had all faith,</hi> and <hi>were able to tranſport moun<g ref="char:EOLhyphen"/>taines, If I had not Charity, I were no<g ref="char:EOLhyphen"/>thing.</hi>
+               </p>
+               <p>
+                  <hi>Paſſiue. Paul</hi> ſeeing that man of Lyſtra had <hi>faith to be healed,</hi> hee ſaid vnto him, <hi>Stand vpright on thy feete</hi>
+                  <note n="c" place="margin">Act. 14.</note>. Thus <hi>Peters</hi> faith was paſſiue, for hee beleeued Chriſt had power to make him walke on the waters, and to ſaue him when he did ſinke. It was Actiue in Chriſt, Paſſiue in <hi>Peter,</hi> but fainting he is rebuked. <hi>O thou of little faith, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:27525:11"/>
+               <head>The Doctrine.</head>
+               <p n="6">
+                  <note place="margin">Theſis.</note>VI. Where Chriſt teacheth vs, that it is with the ſoule, as with the body, both haue their quames, and diſeaſes. Therefore wee read of a <hi>great</hi> faith, <hi>O woman thy faith is great</hi>
+                  <note n="d" place="margin">Mat. 15</note>, <hi>I haue not found ſo great a faith no not in Iſrael</hi>
+                  <note n="e" place="margin">Mat. 8</note>. There is alſo a <hi>little</hi> faith, as in the Diſciples.<note n="f" place="margin">Mat. 8.26</note> 
+                  <hi>Why are you fearefull, O yee of little fath?</hi> and here in <hi>Peter. O man of little faith</hi>
+                  <note n="g" place="margin">Mat. 14.</note>.</p>
+               <p>There is alſo a <hi>ſlow</hi> faith. <hi>O fooles ſlow of heart to beleeue all that was fore<g ref="char:EOLhyphen"/>told by Moſes and the Prophets</hi>
+                  <note n="h" place="margin">Luk. 24.</note>.</p>
+               <p>But howſoeuer, Let vs diſcourſe of what faith wee will, <hi>doubting</hi> is an enemie vnto it, and therefore it is condemned in <hi>Moſes, and Aaron</hi>
+                  <note n="i" place="margin">Numb. 20.</note>, &amp; in the diſciples<note n="k" place="margin">Mat 8.</note>, and here in <hi>Peter</hi>
+                  <note n="l" place="margin">&amp; 14.</note>, as you ſee, for this <hi>Doctrine</hi> will al<g ref="char:EOLhyphen"/>wayes hold true.</p>
+               <p>
+                  <hi>That faith caſteth out doubts,</hi> it be<g ref="char:EOLhyphen"/>ing of the nature and eſſentiall pro<g ref="char:EOLhyphen"/>perty of faith to aſſure the con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <pb n="11" facs="tcp:27525:11"/>
+               <p>To beleeue and doubt, is as fire, and water, light, and darkeneſſe, the ſpirit and the fleſh, ſworne ene<g ref="char:EOLhyphen"/>mies. And this is the ſcope I ay<g ref="char:EOLhyphen"/>med at, namely to treate of the <hi>na<g ref="char:EOLhyphen"/>ture of faith,</hi> and ſpecially of iuſtify<g ref="char:EOLhyphen"/>ing faith, which is the principall.</p>
+               <p>And it is <hi>defined</hi> to be:<note place="margin">Definit.</note> a certaine knowledge, and confidence of Gods good will towards vs in Chriſt, reuealed in the Goſpell, and wrought by the Spirit.</p>
+               <p>The <hi>parts</hi> are two. Firſt,<note place="margin">Diuiſion.</note> 
+                  <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> with the aſſent of the minde. Secondly, <hi>Confidence</hi> with the con<g ref="char:EOLhyphen"/>ſent of the will and heart.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obiect. </seg>
+                  </label> The <hi>Obiect</hi> is God in Chriſt re<g ref="char:EOLhyphen"/>conciling the world vnto him, by this faith grounded on the Goſpell.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Property. </seg>
+                  </label> The Property is <hi>Certiude,</hi> refer<g ref="char:EOLhyphen"/>red to both, knowledge, and con<g ref="char:EOLhyphen"/>fidence.</p>
+            </div>
+            <div type="part">
+               <head>Againſt Papiſts.</head>
+               <p n="7">VII.<note place="margin">Romiſh abuſe.</note> And this is it I intend to proue againſt the Church of Rome,
+<pb n="12" facs="tcp:27525:12"/> which erreth in both, as namely. In the <hi>genus, knowledge,</hi> by commen<g ref="char:EOLhyphen"/>ding the blinde deuotion of impli<g ref="char:EOLhyphen"/>cite faith. And in the <hi>forme, or dif<g ref="char:EOLhyphen"/>ference,</hi> ſc: <hi>confidence of the heart,</hi> by condemning it as preſumption, &amp; recommending doubts, as Catho<g ref="char:EOLhyphen"/>like humility.</p>
+               <p>And thus ſhee hath obſcured the counſell of the Lord, and falls into that curſe, <hi>Woe bee to him that calleth good euill, and euill good: light darke<g ref="char:EOLhyphen"/>neſſe, and darkeneſſe light, ſweete bitter, and bitter ſweete</hi>
+                  <note n="m" place="margin">Eſa. 5.</note>. For thus ſhee eſtabliſheth the kingdome of Satan, and vnder ſhew of godlineſſe ouer<g ref="char:EOLhyphen"/>throweth the Goſpell of Chriſt, the Kingdome of Righteouſneſſe. Shee is therefore an enemie to true iuſtifying faith, without which there is no Church, no Chriſt, no ſal<g ref="char:EOLhyphen"/>uation.</p>
+               <p>
+                  <note place="margin">Romiſh policie.</note>Nay her <hi>Obſtinacie</hi> in defending this doctrine of doubts, ſheweth ſhee hath a further reach, <hi>ſc:</hi> a <hi>Poli<g ref="char:EOLhyphen"/>ticall plot</hi> to ſcrape vp wealth.</p>
+               <p>For knowing this great <hi>Babell</hi>
+                  <pb n="13" facs="tcp:27525:12"/> of workes and merits would, fall to the ground, this maſſe of errour in the Maſſe, would bee diſperſed, theſe lucratiue Indulgences, and cunning Alchimiſtrie, in changing lead into gold, would be loſt as well art the art of <hi>Demetrius</hi> in making Temples for <hi>Diana</hi>
+                  <note n="n" place="margin">Act. 16.</note>. And with<g ref="char:EOLhyphen"/>all, that this fire of Purgatorie would be ſoone extinguiſhed, if this Doctrine take place in mens hearts. <hi>That a man through faith in Chriſt a<g ref="char:EOLhyphen"/>lone, may bee aſſured of his ſaluation.</hi>
+               </p>
+               <p>Therefore ſhee ſtriueth with might, and maine to ſtrenthen this contrarie aphoriſme of <hi>doubts,</hi> that it may be a ſpur to haſten Pilgrims to <hi>Rome,</hi> a mill to grinde their wheare, and a bellowes to blow their coales, that the Eccleſiaſtical Order being built vpon the backes and bellies of the Laickes, thoſe may ſing whilſt theſe weepe, thoſe laugh, whe<g ref="char:cmbAbbrStroke">̄</g> theſe lament, thoſe fatte<g ref="char:cmbAbbrStroke">̄</g>, when the faces of theſe are grinded through miſerie. <hi>In breefe,</hi> that they may bee aſſured of temporalities,
+<pb n="14" facs="tcp:27525:13"/> whilſt theſe doubt of ſpiritualities: that they may poſſeſſe the earth, whilſt they ſet others a working to ſeeke the way to heauen. Heere is a wicked craft, <hi>to make Religion a baud for the diuells pleaſures,</hi> to make <hi>doubts</hi> a running ſtreame to refreſh <hi>Auarice</hi> and <hi>Ambition.</hi>
+               </p>
+               <p>Therefore the Church of <hi>Rome</hi> is ſo diligent and earneſt in deck<g ref="char:EOLhyphen"/>ing, and ſetting forth this <hi>Helena,</hi> that ſhe feareth not to ſay, If a man reſt in the remiſſion of his ſinnes by faith in Chriſt alone, <hi>etiam ideo non remittuntur:</hi> that therefore they are not remitted; as if death could bee found in life, and hell in heauen.</p>
+               <p>Nay ſhee knoweth that <hi>Certitude</hi> of ſaluation cannot agree with <hi>iuſti<g ref="char:EOLhyphen"/>fication by workes,</hi> and therefore be<g ref="char:EOLhyphen"/>ing fully reſolued to maintaine that former Doctrine for her gaine and greatneſſe, ſhee will bend her ſelfe againſt this latter as her deadly ene<g ref="char:EOLhyphen"/>mie, and raiſe the Doctrine of doubts againſt this certitude of faith, as the Popes ſtirred vp new
+<pb n="15" facs="tcp:27525:13"/> Emperous againſt the olde, that whilſt they fight it out in a doubt<g ref="char:EOLhyphen"/>full field, he may ſettle his Chaire at <hi>Rome,</hi> and gaine by other mens loſſes.</p>
+               <p>And therefore this Church is not aſhamed to confeſſe, <hi>that the Romiſh Religion cannot giue content to the con<g ref="char:EOLhyphen"/>ſcience in life nor death.</hi> O iayle of conſcience! O ſinke of miſerie! Let him bee of that Religion, who is an enemie to his owne ſoule, and whoſe minde <hi>the God of this world hath blinded, Leſt the light of the glo<g ref="char:EOLhyphen"/>rious Goſpell of Chriſt, who is the image of God, ſhould ſhine vpon him</hi>
+                  <note n="o" place="margin">2. Cor. 4 4.</note>.</p>
+               <p>As for vs, knowing the Ieſuiti<g ref="char:EOLhyphen"/>call plots, that trouble all the world to build their owne houſe. Let vs take vp the <hi>ſhield of faith, whereby wee may quench all the firie darts of Sa<g ref="char:EOLhyphen"/>tan, and bee able to ſtand in the euill day</hi>
+                  <note n="p" place="margin">Eph. 6.</note>.</p>
+            </div>
+            <div type="part">
+               <head>The Originall.</head>
+               <p n="8">VIII. This doctrine of doubts
+<pb n="16" facs="tcp:27525:14"/> was oft mooued by hereticks,<note place="margin">When doubts firſt eſta<g ref="char:EOLhyphen"/>bliſhed.</note> and anſwered by the fathers. But of late publikely confirmed by the <hi>Chapter of Trent,</hi> where <hi>ex profeſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Italy</hi> and <hi>Spaine</hi> met to eſtabliſh all the Popes errours, that they may not ſeeme any way to be inſtructed by <hi>Lutherans,</hi> and <hi>Proteſtants.</hi> This therefore amongſt other Errours, was approoued by them, though contrarie to Scripture, to the fathers, and to ſome of their owne writers, as <hi>Ambroſius Catharenus</hi> who then writ for the certitude of faith a<g ref="char:EOLhyphen"/>gainſt <hi>Dom. a Soto,</hi> and <hi>Antonius Marinarius,</hi> then preached openly, <hi>Wee wholy draw our mindes from any confidence in our owne workes, and re<g ref="char:EOLhyphen"/>poſe our truſt in the louing kindneſſe and good will of our heauenly Father for<g ref="char:EOLhyphen"/>euer. They erre not in the maze of miſtruſt, who haue obtained righteouſ<g ref="char:EOLhyphen"/>neſſe through Chriſt, but they dare bold<g ref="char:EOLhyphen"/>ly ſay in the ſecurity of minde, peace of conſcience, ioy of heart. Abba, Father, and therefore, though heauen ſhould paſſe, the earth conſume to nothing, and
+<pb n="17" facs="tcp:27525:14"/> the whole world ſhould bee diſſolued, I ſhall erect my ſelfe towards him. And though an Angell from heauen ſhould goe about to perſwade mee otherwiſe, I ſhould call him accurſed. O the happy aſſurance of a Chriſtian ſoule!</hi>
+               </p>
+               <p>Nay the Dominicans to this day are at variance with the Ieſuites vp<g ref="char:EOLhyphen"/>on this ground: ſo that wee might well be diſpenſt to deale with them in this queſtion, till they be agreed amongſt themſelues. But ſeeing the Ieſuiticall opinion of doubts getteth ground of the others, and like a wild-fire is blowen abroad with the winde of Ambition and Auarice to conſume our houſes, and trouble our conſciences; It is ne<g ref="char:EOLhyphen"/>ceſſarie euery one ſhould bring his bucket from the well of waters to quench this fire, and to blow his Trumpet, that this wall of Ierico may fall before him.</p>
+               <p>And this will I labour to effect by Gods grace, and your Chriſtian attention, after I haue layed open the <hi>ſtate of the queſtion.</hi>
+               </p>
+               <p n="9">
+                  <pb n="18" facs="tcp:27525:15"/>
+                  <note place="margin">State of the Que<g ref="char:EOLhyphen"/>ſtion.</note>IX. Which is this. The Church of <hi>Rome</hi> teacheth: That though a man apprehend Chriſts merits by a liuely faith in the Goſpell, yet hee may not bee perſwaded that his ſins are forgiuen him. He may hope the beſt of Gods mercies, but hee muſt ſtand in doubt of the fruition of them, <hi>quia fidei poteſt ſubeſſe falſum,</hi> there may ſome errour lurke vnder faith, <hi>&amp; ſpes poteſt fallere,</hi> hope may deceiue: So then they account this doubting a vertue in faith, &amp; no in<g ref="char:EOLhyphen"/>firmitie of the fleſh, without which ornament faith is hereticall, and be<g ref="char:EOLhyphen"/>cauſe they ſee, that faith and doub<g ref="char:EOLhyphen"/>ting are contraries, they faine a ge<g ref="char:EOLhyphen"/>nerall faith which doth certainely beleeue whatſoeuer the Goſpel re<g ref="char:EOLhyphen"/>uealeth of Chriſt, and the Sacra<g ref="char:EOLhyphen"/>ments doe ſeale vnto the belee<g ref="char:EOLhyphen"/>uer.</p>
+               <p>But for the particular appli<g ref="char:EOLhyphen"/>cation to euery conſcience, that, they hold to bee hereti<g ref="char:EOLhyphen"/>call, that cannot bee, ſay they,
+<pb n="19" facs="tcp:27525:15"/> without ſome particular reuela<g ref="char:EOLhyphen"/>tion.</p>
+               <p>So that in effect you ſee, their iuſtifying faith is nothing elſe but <hi>Hiſtoricall,</hi> ſuch as the Diuels haue, fluttering in the ayre, and ſwim<g ref="char:EOLhyphen"/>ming in the braine, without ſinking into the heart: Being then of the ſame nature, that thoſe <hi>Vniuerſals, Reals, Nominals,</hi> in the Schooles, and thoſe <hi>Platonicall Ideas</hi> amongſt the Achademikes, they would turne Chriſtian faith into a meere con<g ref="char:EOLhyphen"/>templation, or in ſteed of Chriſtians make vs turne Sceptickes.</p>
+               <p>Wee muſt then oppoſe againſt this Doctrine of doubts, for the glorie of God, the comfort of our conſciences, &amp; the preuenting of the Romiſh yoake, Let vs therefore take notice of this double errour. Firſt, of the minde. Secondly, of the will, for we confeſſe, that there is in eue<g ref="char:EOLhyphen"/>ry one of vs liuing in this militant Church, an <hi>implicite</hi> faith, and igno<g ref="char:EOLhyphen"/>rance of particulars, &amp; alſo too ma<g ref="char:EOLhyphen"/>ny doubts, diſtruſting Gods promi<g ref="char:EOLhyphen"/>ſes,
+<pb n="20" facs="tcp:27525:16"/> but God forbid wee ſhould al<g ref="char:EOLhyphen"/>low of them, or hold them for ver<g ref="char:EOLhyphen"/>tues in our Religion. They are the fruits of the fleſh, againſt which eue<g ref="char:EOLhyphen"/>ry Chriſtian muſt fight, till hee bee finally conquerour with Chriſt in the heauens.</p>
+               <p>And that this is ſo, we prooue it
+<list>
+                     <item>
+                        <note place="margin">Diuiſion.</note>1. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</item>
+                     <item>2. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</item>
+                  </list>
+               </p>
+               <p>That is firſt affirmatiuely, confir<g ref="char:EOLhyphen"/>ming the truth, then negatiuely re<g ref="char:EOLhyphen"/>futing whatſoeuer our aduerſaries can ſay againſt it. And firſt of the former.</p>
+            </div>
+            <div type="part">
+               <head>Part. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</head>
+               <p n="10">X. The argument whereby I prooue that a Chriſtian ought to aſſure his vnderſtanding by know<g ref="char:EOLhyphen"/>ledge, and his heart by confidence in Gods mercies towards him in Chriſt, is taken. Firſt, from the pro<g ref="char:EOLhyphen"/>hibition of doubts. Secondly, the nature of faith.<note place="margin">Mat. 8. &amp; 14. &amp; 21.21.</note>
+               </p>
+               <p>
+                  <hi>Firſt</hi> doubts are condemned, Mat. 8. in the diſciples, Mat. 14. in
+<pb n="21" facs="tcp:27525:16"/> 
+                  <hi>Peter,</hi> and Mat. 21.21. <hi>If yee haue faith and doubt not.</hi> Rom. 4. <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> commended for not doubting. <hi>Hee doubted not of the promiſe of God through vnbeleefe, but was ſtrengthned in faith.</hi> The words in the Originall are emphatical. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <note n="a" place="margin">Mat. 14.</note>, ſignifies to be driuen heere and there in our af<g ref="char:EOLhyphen"/>fections, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <note n="b" place="margin">Rom. 4. Iam. 1. Mar. 11.</note>, is oppoſed to faith, and ſignifies to diſpute with our ſelues. <hi>Luke</hi>
+                  <note n="c" place="margin">Luk. 12.</note> inſteed of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a little faith, vſeth the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, to hang in ſuſpence, as a leafe that is driuen with euery winde. And therefore that which the Chapter of Trent, <hi>Dubitante conſcientia laudat, tan<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vir<g ref="char:EOLhyphen"/>tutem fidei,</hi> commends in a doubting conſcience as a vertue of faith, that Saint <hi>Paul</hi> makes a ſinne<note n="d" place="margin">Rom. 14</note>, and therefore concludes that <hi>whatſoeuer is without faith is a ſinne.</hi>
+               </p>
+               <p>In the <hi>ſecond</hi> place, Scripture ex<g ref="char:EOLhyphen"/>preſſing the <hi>nature</hi> of faith, vſeth theſe words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. All which inti<g ref="char:EOLhyphen"/>mates vnto vs a certitude, for Ex<g ref="char:EOLhyphen"/>ample
+<pb n="22" facs="tcp:27525:17"/>
+                  <note n="e" place="margin">Heb. 11. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>. Faith is a ſubſtance of things hoped for, and an euidence of things not ſeene ſaith <hi>Paul.</hi> And<note n="f" place="margin">Rom. 8. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>I am perſwaded, that neither death nor life nor Angels, &amp;c. can ſeperate vs &amp;c. For I know whom I haue beleeued,</hi> and I am <hi>perſwaded</hi> that <hi>hee is able to keepe that which I haue committed to him againſt that day</hi>
+                  <note n="g" place="margin">2. Tim. 1.12.</note>. Let vs therefore goe boldly vnto the throne of grace<note n="h" place="margin">Heb. 4.16. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>. Let vs draw neere with a true heart in full aſſurance of faith<note n="i" place="margin">Heb. 10.22. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>. In whom wee haue boldneſſe, and acceſſe with confidence by faith of him<note n="k" place="margin">Eph. 3.12. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>.</p>
+               <p>Thus <hi>Abraham</hi> being <hi>fully per<g ref="char:EOLhyphen"/>ſwaded</hi>
+                  <note n="l" place="margin">Rom. 4. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>, that what God had pro<g ref="char:EOLhyphen"/>miſed, he was able to performe, &amp;c. And hauing receiued the ſpirit of Adoption, <hi>wee crie Abba, Father</hi>
+                  <note n="m" place="margin">Rom. 8. Gal 4.</note>. All this continued ſtile of Scrip<g ref="char:EOLhyphen"/>ture teacheth that the nature of faith is to aſſure the heart, and caſt out doubtings.</p>
+               <p>Wherefore Saint <hi>Iohn</hi> ſaith often,<note n="n" place="margin">1. Ioh. 3.</note> 
+                  <hi>Wee know that wee are the children of God. That wee are tranſlated from
+<pb n="23" facs="tcp:27525:17"/> death to life. By this wee know wee loue him, when we keepe his commandements. By this wee know that hee dwelleth in vs, by his ſpirit which hee hath giuen vs. Therefore haue I written vnto you, that you may knew you haue life euerlaſting, &amp;c.</hi>
+               </p>
+               <p>Theſe places are ſtones as the fa<g ref="char:EOLhyphen"/>thers ſpeake, <hi>quibus lapidantetur here<g ref="char:EOLhyphen"/>tici,</hi> wherewith heretiques are ſto<g ref="char:EOLhyphen"/>ned. They are as many ſmooth ſtones taken from the brooke of Scriptures to ſtrike this <hi>Goliath</hi> of Romiſh doubts in the forhead, and lay it groueling in the duſt, to the great reioycing of the LORDS hoaſt.</p>
+               <p>Againe, to what ende is it ſaid that faith bringeth <hi>Peace</hi>
+                  <note n="o" place="margin">Rom. 5.1.5.</note>, and <hi>Ioy</hi>
+                  <note n="p" place="margin">&amp; 14 Act. 8. &amp; 10. Luk. 10.</note>, for being <hi>iuſtified wee haue peace</hi> with God and <hi>reioyce in afflictions.</hi>
+               </p>
+               <p>
+                  <hi>The kingdome of God, is Righteouſ<g ref="char:EOLhyphen"/>neſſe, Peace and Ioy in the holy Ghoſt.</hi> The <hi>Eunuke</hi> reioyced, and ſo did the <hi>Centurion</hi> after they had beleeued, and Chriſt ſaid to his diſciples <hi>re<g ref="char:EOLhyphen"/>ioyce,</hi> that your names are written in
+<pb n="24" facs="tcp:27525:18"/> heauen, &amp;c. To what end I ſay, all this Peace, and Ioy? but to inſi<g ref="char:EOLhyphen"/>nuate that faith aſſureth the con<g ref="char:EOLhyphen"/>ſcience, and expelleth feare: and doubts: for where doubts raigne, there is neither Peace, nor Ioy, no ſound comfort nor reſt, and there<g ref="char:EOLhyphen"/>fore Chriſt reprooueth <hi>Peter,</hi> ſc: <hi>O man of little faith wherefore didſt thou doubt?</hi>
+               </p>
+               <p n="11">
+                  <note place="margin">Ob.</note>XI. I denie not, but that euery beleeuer is ſubiect to doubts, nay I adde more: where no doubts are, there is no true faith, as long as wee carry about vs this <hi>body of death</hi>
+                  <note n="a" place="margin">Rom. 7.</note>.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>
+                  </label> But this is it, I vrge vpon your faith, that theſe doubts are infirmi<g ref="char:EOLhyphen"/>ties of the fleſh, and not vertues of the ſpirit, and therefore wee are to pray, and fight againſt them all the dayes of our liues.</p>
+               <p>
+                  <note place="margin">Amplified.</note>When the eye of faith is dimme, the eye of the fleſh is too much ope<g ref="char:EOLhyphen"/>ned,<note place="margin">Ob.</note> when wee feele our miſeries, more then Gods mercies: when the Lord ſeemes to ſtand a farre off, to hide his face, and hold his hand
+<pb n="25" facs="tcp:27525:18"/> in his boſome, and to be deaf at our cries. Then the Saints of GOD power out theſe dolefull ſongs, <hi>My God, my God, why haſt thou forſa<g ref="char:EOLhyphen"/>ken mee</hi>
+                  <note n="b" place="margin">Pſal. 22</note>? <hi>Will the Lord abſent him<g ref="char:EOLhyphen"/>ſelfe for euer? will hee ſhew no more fa<g ref="char:EOLhyphen"/>uour? Is his mercie cleane gone for e<g ref="char:EOLhyphen"/>uer? doth his promiſe faile for euer<g ref="char:EOLhyphen"/>more? Hath God forgotten to bee gra<g ref="char:EOLhyphen"/>tious? doth hee ſhut vp his mercies in diſpleaſure?</hi>
+                  <note n="c" place="margin">Pſal. 77</note> 
+                  <hi>Lord how long wilt thou hide thy ſelfe, and ſhall thy wrath burne like fire?</hi>
+               </p>
+               <p>
+                  <hi>The arrows of the Almighty are with<g ref="char:EOLhyphen"/>in me, the poyſon wherof drinketh vp my ſpirit. The terrors of God doe ſet them<g ref="char:EOLhyphen"/>ſelues in array of battell againſt mee</hi>
+                  <note n="d" place="margin">Iob. 6.4</note>. <hi>Hee teareth mee in his wrath, who ha<g ref="char:EOLhyphen"/>teth mee, hee gnaſheth vpon me with his teeth, mine enemie ſharpeneth his eyes vpon mee</hi>
+                  <note n="e" place="margin">Iob. 16.9</note>, ſtrange words, not farre from deſpaire.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>
+                  </label> But theſe are the conflicts, which the Captaines of the Lords armies, &amp; the moſt choſen children of his right hand ſometimes endure, the Lyons themſelues ſometimes roare
+<pb n="26" facs="tcp:27525:19"/> with ſuch paſſions; how, ſhall not the lambs tremble? If the ſoules of the perfit, which haue beene fed with the marrow of fatneſſe, and haue drunke of the fulneſſe of Gods cup haue thus fainted for want of releefe? much more the vn<g ref="char:EOLhyphen"/>perfet and weake conſciences, which ſcarſe haue taſted how good the Lord is.</p>
+               <p>All this is true, and cannot bee gaine-ſaid. But after a time the faithfull gather ſtrength againe, and are heated at the Sunne-ſhine of Gods mercies. They enter into the Sanctuarie of the Lord, and there behold their infirmities with griefe, and reprooue themſelues, becauſe their feete was almoſt gone, and howſoeuer they ſay in their haſte, that all men are liars, yet by leaſure they repent of it: and ſo <hi>Iob</hi> after his doubts, is ſtrengthned by faith, and faith, <hi>I know that my Redeemer liueth. Though hee kill mee, yet will I truſt in him</hi>
+                  <note n="f" place="margin">Iob. 15. &amp; 19.</note>. And <hi>Dauid</hi> checks his ſoule, <hi>Why art thou diſquieted within
+<pb n="27" facs="tcp:27525:19"/> mee? hope thou in God</hi>
+                  <note n="g" place="margin">Pſ. 42.11</note>.</p>
+               <p>The Apoſtle pithily expreſſeth our meaning, <hi>haeſitantes, ſed non pror<g ref="char:EOLhyphen"/>ſus haerentes,</hi> ſtaggering,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> but not who<g ref="char:EOLhyphen"/>ly ſticking<note n="h" place="margin">2. Cor. 4</note>. So that at laſt faith doth ouercome theſe doubts, and triumpheth euer ouer death, ſaying, <hi>O death where is thy ſting, O graue where is this victorie</hi>
+                  <note n="i" place="margin">1. Cor. 15</note>?</p>
+               <p>Nay vnder the thickeſt clouds, ſhee beholdeth ſome beames of Gods mercies, in the ſhaddow of death, ſhee embraceth life, in the pit of deſpaire ſhee caſteth the anchor of her hope in the bowels of Gods compaſſions, and being caſt downe by the fleſh, ſhee is rai<g ref="char:EOLhyphen"/>ſed by the ſpirit, that ſhee may ſay with <hi>Paul, Who ſhall ſeperate vs from the loue of Chriſt</hi>
+                  <note n="k" place="margin">Rom. 8</note>?</p>
+               <p>For as the <hi>ſprings</hi> are dried vp in a hot Summer,<note place="margin">Simile.</note> and the <hi>trees</hi> are without leaues in a cold win<g ref="char:EOLhyphen"/>ter. As the <hi>Sunne</hi> is hidden with a cloude: the <hi>Starres</hi> with the Sunne, and the <hi>Fire</hi> with the aſhes. As in a <hi>Sound</hi> the actions of life appeare
+<pb n="28" facs="tcp:27525:20"/> not. So in the heate of Gods wrath the cooling waters of his grace are dried vp: In the winter of our afflictions, our faith lieth hid in the ground without leaues, flower or fruit. The cloudes of Gods indignation doe hide the beautie of his face, whereby wee ſhould bee comforted. The bright<g ref="char:EOLhyphen"/>neſſe of his Maieſtie obſcureth the lights of our perſons, &amp; the ſparkes of grace lie hid vnder the aſhes of our croſſes: Being in this ſound, and ſleepe, wee are liker dead, then liuing men. But waite a while, then comfort will come againe, and faith will conquer, and bud foorth, re<g ref="char:EOLhyphen"/>pentance will yeeld her fruits, and charity will ſhine bright to our comfort, and Gods glorie. <hi>For in a moment haue I hid my face from thee, but in great mercies will I gather thee. The mountaines ſhall depart, and the hills bee remooued, but my kindneſſe ſhall not depart from thee, neither ſhall the couenant of my peace be remooued, ſaith the Lord, that hath mercie one thee</hi>
+                  <note n="l" place="margin">Eſa. 54.</note>.</p>
+               <pb n="29" facs="tcp:27525:20"/>
+               <p>Nay euen againſt ſenſe and rea<g ref="char:EOLhyphen"/>ſon faith layeth hold on Gods mercies, as Chriſt did, ſaying, <hi>My God, my God, &amp;c.</hi>
+               </p>
+               <p>And when the Diuell tempteth, the world allureth, the fleſh yeeld<g ref="char:EOLhyphen"/>eth, then faith reſiſteth. And if our faith were perfit, wee ſhould not doubt at all. And without this cer<g ref="char:EOLhyphen"/>titude, faith is but a maske, and the beleeuer but an hypocrite: and therfore, Chriſt ſaith to <hi>Peter. O man of little faith, &amp;c.</hi>
+               </p>
+               <div type="section">
+                  <head>The Grounds.</head>
+                  <p n="12">XII. The <hi>Grounds</hi>
+                     <note place="margin">Grounds.</note> of this cer<g ref="char:EOLhyphen"/>titude are not our merits or works. For what can wee merit of God, that cannot challendge a pecce of bread as our owne without Gods grace and guift? and to whom God ſaith in his law, that hee ſheweth mercie to a thouſand generations, euen then when wee loue him, and keepe his commaundements? This ſandy ground of workes, is it whereon
+<pb n="30" facs="tcp:27525:21"/> the fooliſh Romaniſts haue built the houſes of their conſciences, and therefore when the winds of Gods wrath doe blow, or the waues of temptations beate againſt them, they cannot ſtand as they confeſſe it. Their houſes fall, and the ruine is great, ſo that their Religion can<g ref="char:EOLhyphen"/>not afford them any ſound comfort in life nor death.</p>
+                  <p>But wee like wiſe men (ſo called by our Sauiour, <hi>Mat.</hi> 7.<note place="margin">Math. 7.</note>) haue built our houſe vpon a Rocke, that can<g ref="char:EOLhyphen"/>not be mooued, nor ſapped, namely, the <hi>Rocke,</hi> of 1. Gods mercies, 2.<note place="margin">Diuiſ.</note> Chriſts merits, and efficacie, 3. The Word and Sacraments, 4. The teſtimonie of Gods Spirit, and ours.</p>
+                  <p n="13">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part </seg>1</label> XIII. For when wee endeauor to ſettle our conſciences,<note place="margin">Mercie.</note> and aſſure our ſaluation, wee goe out of our ſelues, knowing that <hi>in our fleſh their dwelleth no good thing</hi>
+                     <note n="b" place="margin">Rom. 7.</note>. And we doe fixe our faith in the bowels of Gods mercies, <hi>from whence the day ſtarre from one high hath viſited vs</hi>
+                     <note n="c" place="margin">Luk. 1.</note>. And ſo
+<pb n="31" facs="tcp:27525:21"/> anchoring our hope within the vaile, where Chriſt is, wee ſay vnto God in our <hi>Prayers.</hi>
+                  </p>
+                  <p>Behold we are miſerable ſinners, and who more miſerable then wee, we are miſerie it ſelfe: and thou art merciful, &amp; who more merciful then thee, thou art mercie it ſelfe. Doe then thine office, O Father of mer<g ref="char:EOLhyphen"/>cies, and take away my miſeries, for thine owne names ſake. Thou haſt done it to others. To <hi>Dauid</hi> a mur<g ref="char:EOLhyphen"/>therour, <hi>Salomon</hi> an idolatour, <hi>Ma<g ref="char:EOLhyphen"/>naſſes</hi> a ſorcerer: To <hi>Peter</hi> that de<g ref="char:EOLhyphen"/>nied thee, <hi>Paul</hi> that perſecuted thee, and to many of the Iewes that cru<g ref="char:EOLhyphen"/>cified thee; why then doe it vnto me, who am a man, as they, a ſinner as they, thine enemie, as they were. For <hi>thou art alwaies the ſame</hi>
+                     <note n="d" place="margin">Pſ. 102</note>: <hi>Thou art the Lord, and art not chan<g ref="char:EOLhyphen"/>ged.</hi>
+                  </p>
+                  <p>If Satan obiect,<note place="margin">Ob.</note> knoweſt thou not that God is iuſt, and that<note n="f" place="margin">Exod. 34. &amp; 20.</note> 
+                     <hi>He will not hold the guilty, as not guilty, but will puniſh the iniquity of the fathers vpon the children, to the third, and forth ge<g ref="char:EOLhyphen"/>neration,</hi>
+                     <pb n="32" facs="tcp:27525:22"/> thinkeſt thou that God can denie himſelfe?</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> No Satan, I doe not thinke ſo, I doe not thinke ſo: But rather I ac<g ref="char:EOLhyphen"/>knowledge that God in his wiſ<g ref="char:EOLhyphen"/>dome hath ſo tempered iuſtice and mercie, in Chriſt, that both haue their full accompliſhment to Gods glorie and our ſaluation in him.</p>
+                  <p>And this is the ſecond ground of my confidence.</p>
+                  <p n="14">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>2</label> XIIII. Namely Chriſts merits, <hi>For God hath made him,</hi>
+                     <note place="margin">Merits.</note> 
+                     <hi>that knew no ſinne, to be ſinne for vs, that wee may be the righteouſneſſe of God in him</hi>
+                     <note n="a" place="margin">2. Cor. 5.</note>. <hi>For he hath borne our ſorrowes, and through his ſtripes, wee are healed</hi>
+                     <note n="b" place="margin">Eſa. 53.3.</note>. <hi>Hee died for our ſinnes, and roſe for our iuſtifica<g ref="char:EOLhyphen"/>tion</hi>
+                     <note n="c" place="margin">Rom. 4.25.</note>. <hi>Hee hath freed vs from the curſe of the Law, being made a curſe for vs</hi>
+                     <note n="d" place="margin">Gal. 3.</note>. And <hi>ſo hee hath redeemed vs by his bloud out of euery tribe, and tongue and nation</hi>
+                     <note n="e" place="margin">Reu. 5 9</note>.</p>
+                  <p>
+                     <note place="margin">Ob.</note>And you neede not ſay, This is true in generall, but may not be ap<g ref="char:EOLhyphen"/>plied in particular.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſ. </seg>
+                     </label> For whatſoeuer Chriſt did, hee
+<pb n="33" facs="tcp:27525:22"/> did it for vs. And without this particular faith, Chriſts merits would bee no more beneficiall to mee,<note place="margin">Simile.</note> then a <hi>feaſt</hi> to him that cannot enioy it, then a <hi>potion</hi> to the ſicke, and a <hi>ſalue</hi> to the wounded being not applied.</p>
+                  <p>
+                     <hi>To vs a childe was borne, to vs a Son was giuen</hi>
+                     <note n="f" place="margin">Eſa 9.5 Luke 2.</note>. Hee was our <hi>Emanuel</hi>
+                     <note n="g" place="margin">Eſa. 7.</note>. God with vs: And was made of God his Father, <hi>our wiſdome, iuſtifi<g ref="char:EOLhyphen"/>cation, ſanctification, and redemption</hi>
+                     <note n="h" place="margin">1. Cor 1.</note>. <hi>Ours</hi> I ſay, ſeeing we are his people, for hee was called <hi>Ieſus,</hi> that hee might ſaue his people from his ſinnes<note n="i" place="margin">Mat. 1.2</note>.</p>
+                  <p>He ſaued <hi>Vs,</hi> I ſay, ſeeing wee are penitent ſinners, <hi>for this word is certaine, and worthy to bee receiued, that Chriſt came into the world to ſaue ſin<g ref="char:EOLhyphen"/>ners</hi>
+                     <note n="k" place="margin">1. Tim. 1</note>. <hi>Vs</hi> I ſay, ſeeing we groane vnder the burden of our ſinnes. For hee crieth, <hi>Come vnto me all you that are loaden, and I will refreſh you</hi>
+                     <note n="l" place="margin">Mat. 11.</note>.</p>
+                  <p>
+                     <hi>You,</hi> ſaith Chriſt, that are <hi>my ſheepe, for my ſheepe heare my voice and follow mee, and I will giue them eternall life</hi>
+                     <note n="m" place="margin">Ioh. 16</note>.</p>
+                  <pb n="34" facs="tcp:27525:23"/>
+                  <p>And I may not doubt of Chriſts <hi>Merits,</hi> ſeeing they are ſufficient. Nor of his <hi>efficacie</hi> in applying them by this Spirit, ſeeing all power is giuen him in heauen and in earth. Nay hee maketh <hi>Interceſſion</hi> for vs, and wee know that his <hi>Father hea<g ref="char:EOLhyphen"/>reth him alwaies</hi>
+                     <note n="n" place="margin">Ioh. 11 Heb. 4.</note>. <hi>Seeing then wee haue ſuch a high Prieſt Ieſus the Sonne of God, who hath peirced the heauens in our name, and there prepareth vs a place, hauing accompliſhed on earth all his fathers will concerning our ſaluati<g ref="char:EOLhyphen"/>on. Let vs hold faſt our profeſſion, and let vs goe with aſſurance of faith to the throne of grace, that wee may obtaine mercie, and finde grace to helpe in time of need.</hi>
+                  </p>
+                  <p>If any one yet doubt, may wee not rebuke him as Chriſt did <hi>Peter,</hi> ſaying, <hi>O man of little faith, &amp;c.</hi>
+                  </p>
+                  <p>Now whatſoeuer hath beene de<g ref="char:EOLhyphen"/>liuered touching Gods mercies, and Chriſts merits, that is, of Gods good will towards vs in Chriſt, wee haue learned it out of Gods Word, which is the externall obiect of our faith.</p>
+                  <p n="15">
+                     <pb n="35" facs="tcp:27525:23"/>XV.<note place="margin">Word and Sacra<g ref="char:EOLhyphen"/>ment.</note> And this is the third ground of our aſſurance, namely the <hi>Word of God:</hi> Not the <hi>Law,</hi> but the <hi>Goſpell,</hi> to ſpeake properly. The <hi>pro<g ref="char:EOLhyphen"/>miſes</hi> reuealing Gods will in Chriſt: Therefore not Legall, but Euange<g ref="char:EOLhyphen"/>licall.</p>
+                  <p>The Goſpell ſpeakes but in gene<g ref="char:EOLhyphen"/>rall,<note place="margin">Ob.</note> therefore your faith can bee but generall, and you haue neede of a particular reuelation to aſſure your conſcience by a particular faith.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> I anſwere, that as<note n="a" place="margin">Rom. 4</note> 
+                     <hi>Abraham,</hi> 
+                     <note n="b" place="margin">Ioh. 20</note> 
+                     <hi>Thomas,</hi>
+                     <note n="c" place="margin">Gal. 2</note> 
+                     <hi>Paul,</hi>
+                     <note n="d" place="margin">1. Ioh. 3</note> 
+                     <hi>Iohn,</hi> did applie vnto themſelues the promiſes of God by a particular faith; ſo ought we to doe.</p>
+                  <p n="1">1. For what they did, was not by a ſpeciall reuelation, but by the Spirit of Adoption, and the nature of a true iuſtifying faith common to all the Elect. And therefore they ſpeake in the plurall number in the places alleadged. And <hi>Paul</hi> ſaith, of <hi>Abraham,</hi> Rom. 4.23.24. <hi>That it was not written for him alone, but for vs alſo, to whom faith ſhalbe imputed
+<pb n="36" facs="tcp:27525:24"/> for righteouſneſſe.</hi>
+                  </p>
+                  <p>And Chriſt ſaid of <hi>Thomas,</hi> Ioh. 20. <hi>Becauſe thou haſt ſeene thou haſt beleeued, bleſſed are they that haue not ſeene, and yet haue beleeued.</hi> Whence appeares that neither <hi>Abraham,</hi> nor <hi>Thomas,</hi> nor <hi>Paul,</hi> nor <hi>Iohn,</hi> in aſſu<g ref="char:EOLhyphen"/>ring themſelues, &amp; applying Gods promiſes to their conſciences, did any thing extraordinarie, but that which is required of euery belee<g ref="char:EOLhyphen"/>uer to bee ſaued: for wee haue <hi>the ſame ſpirit they had</hi>
+                     <note n="e" place="margin">2. Cor. 4</note>, though not in the ſame meaſure.</p>
+                  <p n="2">2 Againe. Though Chriſt in his Word ſpeake not to euerie one of vs, in particular, as he did to the ſick of the palſey. <hi>Cofide fili; bee of good cheere my ſonne, thy ſinnes are forgiuen thee</hi>
+                     <note n="f" place="margin">Mat. 9</note>. And to the woman, <hi>Thy faith hath ſaued thee, goe in peace</hi>
+                     <note n="g" place="margin">Luk. 7</note>. Yet the indefinite propoſitions of Scripture are equiualent with a thouſand par<g ref="char:EOLhyphen"/>ticulars.</p>
+                  <p n="1">1 Therefore when wee heare, <hi>That hee which beleeueth, ſhall not pe<g ref="char:EOLhyphen"/>riſh</hi>
+                     <note n="h" place="margin">Ioh. 3</note>. <hi>That hee which calleth vpon the
+<pb n="37" facs="tcp:27525:24"/> name of God ſhalbe ſaued</hi>
+                     <note n="i" place="margin">Ioel. 2</note>. That Chriſt came to ſaue <hi>ſinners</hi>
+                     <note n="k" place="margin">1. Tim. 1</note>, to heale the <hi>ſicke</hi>
+                     <note n="l" place="margin">Mat. 9</note>, free the <hi>captiues</hi>
+                     <note n="m" place="margin">Eſa. 61</note>, refreſh the <hi>wearie</hi>
+                     <note n="n" place="margin">Mat. 11.</note>, ſatisfie the <hi>hungrie</hi>
+                     <note n="o" place="margin">Math. 5 Iohn 6.</note>, To quicken the <hi>dead</hi>
+                     <note n="p" place="margin">Eph. 2.</note>, ſaue what was <hi>loſt,</hi> To ſaue his <hi>people</hi>
+                     <note n="q" place="margin">Mat. 1.</note>, his <hi>ſheepe</hi>
+                     <note n="r" place="margin">Ioh. 10.</note>, thoſe that were <hi>giuen him</hi>
+                     <note n="ſ" place="margin">Ioh. 6.</note>; that <hi>morne</hi>
+                     <note n="t" place="margin">Eſa. 61.</note>, in Sion, &amp; are of a <hi>contrite</hi>
+                     <note n="u" place="margin">Pſ. 51.</note>, <hi>poore</hi>
+                     <note n="x" place="margin">Mat. 5.</note>, and <hi>humble</hi>
+                     <note n="y" place="margin">Eſa. 57.</note> ſpirit. And many ſuch like comfortable ſenten<g ref="char:EOLhyphen"/>ces in Scripture.</p>
+                  <p n="2">2 The ſanctified conſcience will draw the Aſſumption. I know I am ſuch, I feele it, as well as I can feele, I liue, ſee and walke: for na<g ref="char:EOLhyphen"/>ture is not more powerfull to per<g ref="char:EOLhyphen"/>ſwade me that I liue as a man, then grace can be to aſſure me that I liue as a Chriſtian.</p>
+                  <p n="3">3 Therefore faith will make the concluſion of this Demonſtration, and ſay, I ſhall not periſh, but I ſhall liue for euer, for the mouth of the Lord hath ſpoken it. <hi>Heauen and earth ſhall paſſe, but one iote of Gods word ſhall not paſſe without his full ac<g ref="char:EOLhyphen"/>compliſhment</hi>
+                     <note n="z" place="margin">Mat. 5. Luk. 21.</note>.</p>
+                  <pb n="38" facs="tcp:27525:25"/>
+                  <p>And to what end elſe all our Chriſtian meetings? Doth not the Miniſter ſtand in Chriſts roome; threatning and promiſing, inſtruct<g ref="char:EOLhyphen"/>ing and rebuking, planting, and roo<g ref="char:EOLhyphen"/>ting out, building and deſtroying, looſening and binding, opening and ſhutting, as hauing the keyes of heauen. Doth not hee ſpeake ſometimes in generall. <hi>Beleeue,</hi> and <hi>repent, and you ſhalbe ſaued,</hi> but ſome<g ref="char:EOLhyphen"/>times in particular, as <hi>Paul</hi> to the Centurion, Act. 10. and <hi>Nathan</hi> to <hi>Dauid. Tu es homo, Thou art the man,</hi> and Chriſt to <hi>Peter. Simon dormis? Peter ſleepeſt thou?</hi> Mar. 14.</p>
+                  <p>And therefore ſaluation is of faith, <hi>that the promiſe may bee ſure to the whole ſeed</hi>
+                     <note n="a" place="margin">Rom. 4.</note>. Not ſure in gene<g ref="char:EOLhyphen"/>rall, but to the ſeed in particular ap<g ref="char:EOLhyphen"/>plied.</p>
+                  <p>
+                     <note place="margin">Sacra<g ref="char:EOLhyphen"/>ments.</note>And to what other end, the ad<g ref="char:EOLhyphen"/>miniſtration of the <hi>Sacraments?</hi> doth not the Paſtor applie the ſignes of Baptiſme, and the Lords Supper, and euery child, or beleeuer receiue the ſame ſignes, with this
+<pb n="39" facs="tcp:27525:25"/> vſe and relation, that as truely as they are made partakers of the one, ſo truly they receiue the other to the encreaſe of faith, and aſſurance of ſaluation? And therefore.</p>
+                  <p>Circumciſion is called <hi>the ſeale of the righteouſneſſe of faith</hi>
+                     <note n="b" place="margin">Rom. 4.</note>. And thoſe that <hi>are baptiſed haue put on Chriſt</hi>
+                     <note n="c" place="margin">Gal. 3.</note>. And Chriſt ſaith to his diſciples. <hi>Take, eate, this is my body, which is gi<g ref="char:EOLhyphen"/>uen for you</hi>
+                     <note n="d" place="margin">Mat. 26.</note>. The name of the thing ſignified is attributed to the exter<g ref="char:EOLhyphen"/>nall ſigne, to aſſure vs, that in be<g ref="char:EOLhyphen"/>leeuing wee ſhalbe as certainely made partakers of all Chriſts merits; as by taking with the hand, and ea<g ref="char:EOLhyphen"/>ting with the mouth wee enioy the terreſtriall elements for the preſer<g ref="char:EOLhyphen"/>uation of this temporall life.</p>
+                  <p>Now euery Chriſtian <hi>knoweth</hi> hee doth beleeue, by the <hi>roote, groath,</hi> and <hi>fruits</hi> of his faith.</p>
+                  <p>By the <hi>roote,</hi> becauſe it procee<g ref="char:EOLhyphen"/>deth from the ſpirit crying in the heart, <hi>Abba Father,</hi> and is grounded vpon the pure word of God.</p>
+                  <p>By the <hi>groath,</hi> becauſe it is nur<g ref="char:EOLhyphen"/>riſhed
+<pb n="40" facs="tcp:27525:26"/> by the ſame meanes, it was conceiued in our mindes and hearts, as the childe is nurſed with the ſame bloud hee was firſt concei<g ref="char:EOLhyphen"/>ued.</p>
+                  <p>By the <hi>fruits.</hi> For <hi>his heart is to<g ref="char:EOLhyphen"/>wards God as the drie land</hi>
+                     <note n="e" place="margin">Pſal. 143</note>. <hi>As the heart panteth after the water brookes, ſo panteth his ſoule after his God</hi>
+                     <note n="f" place="margin">Pſal. 42.</note>.</p>
+                  <p>O when (ſaith hee) ſhall I enter, and preſent me before thy glorious face, euen in that houſe, whereof thou art the Maiſter builder, and not man? <hi>O who ſhall deliuer me out of this body of death</hi>
+                     <note n="g" place="margin">Rom. 7.</note>! <hi>I deſire to be diſſolued, and to be with Chriſt</hi>
+                     <note n="h" place="margin">Phil. 1.</note>. O when ſhall I ſay with <hi>Simeon. Now letteſt thou thy ſeruant depart in peace</hi>
+                     <note n="i" place="margin">Luk. 2.</note>. And yet, <hi>nec pudet viuere, nec piget mori.</hi> I am neither a ſhamed to liue, nor grieued to die.</p>
+                  <p>If it be thy will, O Lord, I ſhould liue to ſerue thee, thy will bee done. If thou ſayeſt to my heart, <hi>ſeeke my face,</hi> I wil anſwer, <hi>I will ſeeke thy face, O my God</hi>
+                     <note n="k" place="margin">Pſ. 27.8.</note>.</p>
+                  <p>If thou ſayeſt, Do my wil, I will an<g ref="char:EOLhyphen"/>ſwer,
+<pb n="42" facs="tcp:27525:26"/> 
+                     <hi>Here I am come, I take a delight to doe thy will, O my God. Thy lawes are written within mee</hi>
+                     <note n="l" place="margin">Pſ. 40.7.</note>. <hi>My heart is diſ<g ref="char:EOLhyphen"/>poſed,</hi> O my God, <hi>my heart is diſpoſed, I will ſing, and giue praiſe. Awake vp my glorie, awake Pſalterie and Harpe, I will praiſe thee amongſt the people, I will ſing vnto thee amongſt the Nati<g ref="char:EOLhyphen"/>ons</hi>
+                     <note n="m" place="margin">Pſ. 57.8.</note>.</p>
+                  <p>Thus the roote, groath, and fruits. The diſpoſition of the heart, the o<g ref="char:EOLhyphen"/>bedience of life, the petition of the lips, with the deſire of death to glo<g ref="char:EOLhyphen"/>rifie God, are euidences of my faith, and that in truth I haue applied the Goſpell to my ſaluation. And therefore the mercies of God, the merits of Chriſt, and the truth of the Goſpell ſhalbe ſure grounds for my faith to build vpon. And if any yet doubt, wee may ſay vnto him, as Chriſt to <hi>Peter. O man of little faith, &amp;c.</hi>
+                  </p>
+                  <p>But in comes <hi>Bellarmin</hi> with his.<note place="margin">Ob. Bell: de Iuſtif: l. <hi>3.</hi> cap. <hi>8.</hi>
+                     </note> 
+                     <hi>Nemo tenetur, nec poteſt, nec expedit;</hi> No man ought, or can, or may ſo aſſure himſelfe.</p>
+                  <pb n="42" facs="tcp:27525:27"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſ. </seg>
+                     </label> (Beloued) hold this for one of the greateſt lies, that euer came from Rome. What? that no man is <hi>bound</hi> to haue that which God <hi>com<g ref="char:EOLhyphen"/>mandeth?</hi> That none <hi>can</hi> haue, that which God <hi>promiſeth?</hi> that none <hi>may</hi> haue that which hee <hi>giueth?</hi> who will not hold him for a liar, that publiſheth ſuch vntruths?</p>
+                  <p n="1">1 As oft as God <hi>cammands</hi> vs to <hi>beleeue in the Goſpell</hi>
+                     <note n="a" place="margin">Mark. 1.</note>. To <hi>aske in faith</hi>
+                     <note n="b" place="margin">Iam. 1.</note>, <hi>And condemneth doubtings</hi>
+                     <note n="c" place="margin">Mat. 21.</note>: ſo oft doth hee command vs to ap<g ref="char:EOLhyphen"/>plie in particular the remiſſion of our ſinnes. For, I doe proue that the faith required in the Goſpell is a particular, not a generall faith, a iuſtifying, not an hyſtoricall faith.</p>
+                  <p n="2">2 Againe, as oft as God <hi>promiſeth</hi> to heare ſuch prayers, ſo oft hee pro<g ref="char:EOLhyphen"/>miſeth to graunt vs this particular remiſſion of ſinnes.</p>
+                  <p n="3">3 And laſtly, as oft as the Goſ<g ref="char:EOLhyphen"/>pell is preached, ſo oft this particu<g ref="char:EOLhyphen"/>lar faith, and remiſſion of ſinnes is graunted vnto the Elect. This be<g ref="char:EOLhyphen"/>ing the difference betweene the
+<pb n="43" facs="tcp:27525:27"/> Law, and the Goſpell. That the Law commandeth and ſheweth our dutie, but giueth not power to per<g ref="char:EOLhyphen"/>forme it. The Goſpell in comman<g ref="char:EOLhyphen"/>ding giueth the hability, power, and effect, to beleeue and obey, where<g ref="char:EOLhyphen"/>upon it is called the <hi>Miniſtery of the ſpirit</hi>
+                     <note n="d" place="margin">2. Cor. 3</note>.</p>
+                  <p>Therefore I conclude, that either a man may be aſſured of his ſaluati<g ref="char:EOLhyphen"/>on reſting vpon theſe fore-named grounds, or elſe Gods mercies are changeable: Chriſts merits and power in-ſufficient; The Word is a fable. The Sacraments are falſe ſeales: But curſed be hee that ſaith and beleeueth this. Therefore <hi>A<g ref="char:EOLhyphen"/>nathema, Anathema,</hi> to the Church of Rome, that ſaith a man <hi>ought</hi> not, nor <hi>cannot,</hi> nor <hi>may</hi> not, aſſure him<g ref="char:EOLhyphen"/>ſelfe in particular of the remiſſion of his ſinnes, and of life euerlaſt<g ref="char:EOLhyphen"/>ing.</p>
+                  <p n="16">XVI.<note place="margin">
+                        <hi>Part.</hi> 4. Gods Spi<g ref="char:EOLhyphen"/>rit and ours.</note> The laſt ground for the aſſurance of our ſaluation, is the te<g ref="char:EOLhyphen"/>ſtimonie of the ſpirit of God, and of our ſpirit. <hi>The holy Ghoſt witneſſing
+<pb n="44" facs="tcp:27525:28"/> to our ſpirits that we are the adopted ſonnes of God</hi>
+                     <note n="a" place="margin">Rom. 8.</note>. And that after this <hi>manner.</hi>
+                  </p>
+                  <p>
+                     <hi>Becauſe wee are ſonnes, God the Fa<g ref="char:EOLhyphen"/>ther hath ſent the Spirit of his Sonne in our hearts crying. Abba Father</hi>
+                     <note n="b" place="margin">Gal. 4.4.</note>. Thence we conclude, that wee are the ſonnes of God, and <hi>therefore heires of God, and coheires with Chriſt</hi>
+                     <note n="c" place="margin">Rom. 8.</note>. Becauſe our hearts are mooued to crie with confidence vnto God, as vnto a Father, and this ſpirit of pray<g ref="char:EOLhyphen"/>er, and of faith, is giuen onely to the ſonnes of God.</p>
+                  <p n="2">2 Now when our <hi>ſpirits</hi> being ſanctified, are enlightned with this faith, and our conſciences purified from dead workes, then euen our ſpirits can witneſſe with the ſpirit of God within vs, that wee are the children of God, and therefore ſhall not periſh, becauſe this faith, and repentance bringing forth good fruits are giuen only to the elect, to Gods choſen ſonnes and daughters.</p>
+                  <p>Hence the Holy Ghoſt is called <hi>a ſeale</hi>
+                     <note n="d" place="margin">Eph. 1.13. &amp; 4.30.</note>. <hi>Yea were ſealed with the Holy
+<pb n="45" facs="tcp:27525:28"/> Spirit of promiſe, which is the earneſt of our inheritance. Greeue not the Ho<g ref="char:EOLhyphen"/>ly Spirit of God, whereby yee are ſealed vnto the day of redemption.</hi>
+                  </p>
+                  <p>It is alſo called, <hi>A pledge, an ear<g ref="char:EOLhyphen"/>neſt penny.</hi> For <hi>God who hath ſealed vs, hath giuen vs the earneſt of his ſpirit in our hearts</hi>
+                     <note n="e" place="margin">2 Cor. 1.2.</note>.</p>
+                  <p>This ſeale, this earneſt penny are notes of the aſſurance of our hearts, where the Holy Ghoſt dwelleth as in his Temple.</p>
+                  <p>And now if our Conſcience na<g ref="char:EOLhyphen"/>turally is <hi>inſtar mille teſtium,</hi> as good as a thouſand witneſſes: how much ſtronger is it to perſwade vs, being ſanctified by the <hi>ſpirit of truth</hi>
+                     <note n="f" place="margin">Ioh 14. and 36.</note>.</p>
+                  <p>And thus in the Law, vnder the witneſſe of two or three, euery thing was confirmed, and ratified. Now wee haue <hi>foure witneſſes</hi> vnreproo<g ref="char:EOLhyphen"/>uable: two externall, the Word and Sacraments: two internall, the Spirit of God, with our ſpirits.</p>
+                  <p>Therefore either my concluſion is true, That a man may aſſure him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="46" facs="tcp:27525:29"/> of his ſaluation, or elſe the pre<g ref="char:EOLhyphen"/>miſes are falſe.</p>
+                  <p>But curſed be hee that ſaith, God is not conſtant in mercie: Chriſt is not of ſufficient will and power to ſaue; The Word and Sacraments, are falſe badges. The Spirit of God, and our ſpirit are falſe wit<g ref="char:EOLhyphen"/>neſſes.</p>
+                  <p>Therefore <hi>Anathema, Anathema,</hi> to the Church of <hi>Rome,</hi> that teacheth a man may not be aſſured of his ſal<g ref="char:EOLhyphen"/>uation.</p>
+               </div>
+               <div type="section">
+                  <head>Of perſeuerance.</head>
+                  <p n="17">XVII. But the Romaniſts ſay, Though now you may bee aſſured of Gods fauour,<note place="margin">Of our perſeue<g ref="char:EOLhyphen"/>rence.</note> and of your ſalua<g ref="char:EOLhyphen"/>tion, yet you cannot bee aſſured to continue to the end: For the way to heauen is long, tedious, very hard to keepe. <hi>Multa cadunt inter calicen ſuprema<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> labra.</hi> Many things fall betweene the lip and the cup, and therefore you cannot bee aſſured of your ſaluation.</p>
+                  <pb n="47" facs="tcp:27525:29"/>
+                  <p>I anſwere, <label type="milestone">
+                        <seg type="milestoneunit">Anſ. </seg>
+                     </label> Hee that giueth this good beginning for his owne names ſake, will perfit the worke<g ref="char:EOLhyphen"/>manſhip of his fingers, for his glory ſake.</p>
+                  <p>
+                     <hi>The plant which the Father hath not planted ſhalbe rooted out</hi>
+                     <note n="a" place="margin">Mat. 15.</note> There<g ref="char:EOLhyphen"/>fore that which hee hath planted ſhall neuer bee rooted out. That which hee builds ſhall neuer bee throwne downe: Therefore the iuſt is like the tree <hi>planted by riuers of waters</hi>
+                     <note n="b" place="margin">Pſal. 1.</note>. Like the greene <hi>Olius tree</hi> in the houſe of the Lord<note n="c" place="margin">Pſal. 52.</note>. Like the <hi>Palme tree,</hi> or like the <hi>Cedars of Lebanon</hi>
+                     <note n="d" place="margin">Pſal. 92.</note>, and like vnto the <hi>mount Sion,</hi> that cannot bee mooued<note n="e" place="margin">Pſ. 125.</note>, and therefore hee <hi>is perſwaded</hi>
+                     <note n="f" place="margin">Rom. 8.</note>, that nei<g ref="char:EOLhyphen"/>ther high nor low, things preſent, nor things to come, can ſeperate him from the loue God beareth vn<g ref="char:EOLhyphen"/>to him in Chriſt.</p>
+               </div>
+               <div type="section">
+                  <head>The Grounds.</head>
+                  <p n="18">XVIII.<note place="margin">The Grounds.</note> And the grounds of this perſeuerance, are not our merits
+<pb n="48" facs="tcp:27525:30"/> or workes: for that is the reddieſt way to aſſure our damnation. If wee ſhould any wayes truſt in our ſelues, wee could not ſtand one mo<g ref="char:EOLhyphen"/>ment. Thus wee ſhould fall away totaly, and finally, as all hypocrites doe.</p>
+                  <p>But the foundation of our perſe<g ref="char:EOLhyphen"/>uerance, is <hi>God,</hi> the Father the Son, and the Holy Ghoſt.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>1</label> The <hi>Fathers,</hi> 1. loue. 2. decree, 3. promiſe.</p>
+                  <p n="1">1 His <hi>loue,</hi> for ſaith he, <hi>I haue lo<g ref="char:EOLhyphen"/>ued thee with an eternall loue. There<g ref="char:EOLhyphen"/>fore haue I prolonged my kindneſſe vnto thee</hi>
+                     <note n="a" place="margin">Ier. 31.3.</note>.</p>
+                  <p>Loue I ſay <hi>ſo great: That he hath giuen vs his onely Sonne,</hi>
+                     <note n="b" place="margin">Ioh. 3.</note> 
+                     <hi>&amp;c.</hi> and therefore <hi>hee will not deny all other things with him</hi>
+                     <note n="c" place="margin">Rom. 8.</note>.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ob. </seg>
+                     </label> If wee be ſurpriſed in ſome fault, <hi>He will viſit our tanſgreſſions, and cha<g ref="char:EOLhyphen"/>ſtice vs with ſtripes;</hi> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> 
+                     <hi>but he will not take away his louing kindneſſe from vs for euer</hi>
+                     <note n="d" place="margin">Pſal. 89.</note> Nay, hee will rather ſend vs a <hi>Nathan</hi> to reprooue vs, as hee did to <hi>Dauid</hi>
+                     <note n="e" place="margin">2. Sam. 12.</note>. Or <hi>looke vpon</hi>
+                     <note n="f" place="margin">Luk. 22.6</note> 
+                     <hi>vs,</hi> as
+<pb n="49" facs="tcp:27525:30"/> Chriſt did one <hi>Peter. And though we fall, yet ſhall we not be vtterly caſt downe, for the Lord vpholdeth vs with his hand</hi>
+                     <note n="g" place="margin">Pſal. 37.</note>.</p>
+                  <p>Otherwiſe hee were not a true, and heauenly Father: ſeeing hee hath the will and power to make vs ſuch as is fitting, by taking <hi>away our ſtony hearts</hi>
+                     <note n="h" place="margin">Ezech. 36.</note>.</p>
+                  <p n="2">2 And it muſt be ſo, becauſe of Gods <hi>decree.</hi> His knowledge is certaine, his will is iuſt, &amp; power in<g ref="char:EOLhyphen"/>finite. Therefore <hi>the foundation of the Lord is ſure, hauing this ſeale, GOD knoweth who are his</hi>
+                     <note n="i" place="margin">2. Tim. 2.</note>.</p>
+                  <p>Therefore the falſe Prophets, and falſe Chriſts with their lying mi<g ref="char:EOLhyphen"/>racles would ſeduce euen the Elect, <hi>if it were poſſible</hi>
+                     <note n="k" place="margin">Mat. 24.</note> Though <hi>Marie Magdalin</hi> haue ſeuen diuels. <hi>Peter</hi> denie Chriſt; <hi>Paul</hi> perſecute him. Yet not one of them ſhall periſh, becauſe thoſe <hi>that he hath predeſtina<g ref="char:EOLhyphen"/>ted, he hath called; and thoſe that hee hath called, hee hath iuſtified; and thoſe that he hath iuſtified, he hath glorifi<g ref="char:EOLhyphen"/>ed</hi>
+                     <note n="l" place="margin">Rom. 8.</note>. The future glorie of the Elect,
+<pb n="50" facs="tcp:27525:31"/> is as certaine, as if it were paſt. And hence ariſeth this confidence.</p>
+                  <p>
+                     <hi>Hee that hath begunne this worke in vs, will perfit it, till the day of the Lord Ieſus</hi>
+                     <note n="m" place="margin">Phil. 1.9</note>. And thus the doctrine of predeſtination is ſo farre from ſha<g ref="char:EOLhyphen"/>king the faith and hope of our ſal<g ref="char:EOLhyphen"/>uation, as that rather it doth con<g ref="char:EOLhyphen"/>firme it, as the principall ground thereof.</p>
+                  <p n="3">3 Now God will bee iuſtified in all his workes, and therefore hee will performe whatſoeuer hath proceeded out of his lippes. <hi>God is not a man, that he ſhould lie, neither the Sonne of man that hee ſhould repent: hath he ſaid, and ſhall he not doe it? Or hath he ſpoken, and ſhall hee not make it good</hi>
+                     <note n="n" place="margin">Numb. 23.</note>? <hi>I will</hi> (ſaith hee) <hi>giue them one heart, and one way, that they may feare me for euer: I will make an eter<g ref="char:EOLhyphen"/>nall conuenant with them, that I will not turne away from them to doe them good, but I will put my feare in their hearts that they ſhall not depart from me</hi>
+                     <note n="o" place="margin">Ier. 32.</note>.</p>
+                  <p>And this promiſe of the new Co<g ref="char:EOLhyphen"/>uenant
+<pb n="51" facs="tcp:27525:31"/> is not conditionall, for ſo none ſhould bee ſaued, if GOD ſhould waite for our faith, and per<g ref="char:EOLhyphen"/>ſeuerance, but it is abſolute, pro<g ref="char:EOLhyphen"/>ceeding from his free grace.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>2</label> Againe, this perſeuerance is grounded on <hi>Chriſts merits,</hi> and power. And therefore (ſaith hee) <hi>whatſoeuer my Father giueth mee com<g ref="char:EOLhyphen"/>meth vnto me, and I will not caſt him out, but I will raiſe him againe, and giue him eternall life</hi>
+                     <note n="a" place="margin">Ioh. 6.</note>.</p>
+                  <p>
+                     <hi>No man ſhall take my ſheepe out of my hands, for my Father which gaue them me, is ſtronger then all, and no man can take them out of his hands</hi>
+                     <note n="b" place="margin">Ioh. 10.</note>. To this end hee <hi>Prayed</hi> for <hi>Peter</hi>
+                     <note n="c" place="margin">Luk. 22.</note>, and for <hi>Vs</hi>
+                     <note n="d" place="margin">Ioh. 17.</note>, and was <hi>heard</hi>
+                     <note n="e" place="margin">Ioh. 11.</note>. And who would ſuffer one of his members to be cut off, if he could otherwiſe pre<g ref="char:EOLhyphen"/>uent it? And hath not Chriſt bought vs at a high rate, with his <hi>pretious bloud</hi>
+                     <note n="f" place="margin">1. Pet. 1.</note>? And thinke you hee will looſe, that which hath coſt him ſo deere?</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>3</label> Laſt of all: This perſeuerance is grounded on <hi>Gods ſpirit:</hi> for (ſaith
+<pb n="52" facs="tcp:27525:32"/> Chriſt) <hi>hee ſhall dwell with you for e<g ref="char:EOLhyphen"/>uer</hi>
+                     <note n="g" place="margin">Ioh. 14.</note>. And hee ſhalbe the earneſt of your inheritance, <hi>vntill the redemp<g ref="char:EOLhyphen"/>tion of the purchaſed poſſeſſion</hi>
+                     <note n="h" place="margin">Eph. 1.</note>. Hence it is compared to a <hi>ſpring of water</hi>
+                     <note n="i" place="margin">Ioh. 4.</note>. And as you haue heard, to <hi>a ſeale,</hi> or <hi>earneſt penny.</hi> And all this in <hi>truth</hi>
+                     <note n="k" place="margin">Ioh. 16.</note>, for hee cannot, and will not deceiue vs.</p>
+                  <p>Therefore, either this Concluſion is true. That we may be aſſured of our perſeuerance in faith, and loue, vnto the end of our full redemption, or elſe theſe premiſes are falſe.</p>
+                  <p>But <hi>curſed</hi> be he that ſaith, <hi>God</hi> is no ſure ground for vs to truſt vpon. His <hi>loue</hi> is variable, his <hi>will</hi> change<g ref="char:EOLhyphen"/>able, his <hi>promiſe</hi> deceitfull. <hi>Chriſts merits</hi> are made voide by our ſinnes, his <hi>arme</hi> is too ſhort to deliuer vs, and his <hi>prayers</hi> are neglected. The Holy Ghoſt is a falſe meſſenger, a counterfet ſeale, and a troubleſome hoſt: for if this were ſo, the Bible were but a fable, the Goſpell a ridle, and Religion but a tricke of wit and policie.</p>
+                  <pb n="53" facs="tcp:27525:32"/>
+                  <p>Therefore, <hi>Anathema,</hi> nay <hi>Ma<g ref="char:EOLhyphen"/>ranatha,</hi> is denounced and decreed in the Counſell of Heauen, againſt the Chapter of <hi>Trent,</hi> for teaching that a man may not bee aſſured of his ſaluation. If therefore any one of you (beloued) laying hold one theſe hookes, and building vpon ſuch a rocke, doth neuertheleſſe wa<g ref="char:EOLhyphen"/>uer in his heart, wee may reprooue him, as Chriſt did <hi>Peter,</hi> ſaying. <hi>O man of little faith wherefore didſt thou doubt?</hi>
+                  </p>
+                  <p>And thus much for the firſt part, ſc: <hi>The confirmation of the Truth.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Part. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</head>
+               <p n="1">1 Now it is high time for vs to examine our <hi>Aduerſaries Obiect:</hi> It may be, I haue wearied the patience of ſome, in this firſt part. But they who know the weight of this Con<g ref="char:EOLhyphen"/>trouerſie, know, that a building which muſt reach to heauen, ought to haue a deepe foundation. The taller Oke, and the higher Ceder; the more compaſſe the roote re<g ref="char:EOLhyphen"/>quires
+<pb n="54" facs="tcp:27525:33"/> vnder earth. And thoſe who are exerciſed in this ſpirituall building, or planting, know I haue omitted of ſet purpoſe many orna<g ref="char:EOLhyphen"/>ments from the Fathers, and others, euen from our Aduerſaries ſtore-houſe, to beautifie this worke.</p>
+               <p>But the deſire I haue to finiſh it, and to giue it his full proportion in all points neceſſarie, I haue conten<g ref="char:EOLhyphen"/>ted my ſelfe hetherto with <hi>Chriſt</hi> the corner-ſtone, and with the te<g ref="char:EOLhyphen"/>ſtimonie of <hi>Scripture,</hi> the onely rule for Articles of faith, and ſalua<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Behold then the ſuttlety, and di<g ref="char:EOLhyphen"/>ligence of Satan to trouble, and de<g ref="char:EOLhyphen"/>ſtroy. The Romaniſts alledge out of Scripture.<note place="margin">Diuiſion.</note> Firſt, Teſtimonies. Secondly, Examples. Thirdly, Rea<g ref="char:EOLhyphen"/>ſons, to prooue that faith cannot be a certaine particular perſwaſion, &amp; much leſſe aſſure vs of our perſeue<g ref="char:EOLhyphen"/>rance till wee come to perfection.</p>
+               <div type="section">
+                  <pb n="55" facs="tcp:27525:33"/>
+                  <head>Obiections againſ Certitude of faith.</head>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ob. </seg>1</label> 1 The <hi>Teſtimonies</hi> are drawne from the Old, and New Teſtament.</p>
+                  <p>From the <hi>Old</hi> Teſtament. As,</p>
+                  <p>
+                     <hi>Who can ſay I haue cleanſed my heart.</hi>
+                     <note place="margin">Prou. 20.8</note>
+                  </p>
+                  <p>
+                     <hi>Men know neither loue nor hatred by all that is before them.</hi>
+                     <note place="margin">Eccleſ. 9.1</note>
+                  </p>
+                  <p>
+                     <hi>Who knoweth whether the Lord will returne, and leaue meate offerings, &amp;c?</hi>
+                     <note place="margin">Ioel. 2.14.</note>
+                  </p>
+                  <p>From the New Teſtament. As,</p>
+                  <p>
+                     <hi>I finde my ſelfe guilty of nothing,</hi>
+                     <note place="margin">1. Cor. 4.4.</note> 
+                     <hi>yet am not I iuſtified thereby.</hi>
+                  </p>
+                  <p>
+                     <hi>Worke out your ſaluation with feare,</hi>
+                     <note place="margin">Phil. 2.</note> 
+                     <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Be not high minded, but feare.</hi>
+                     <note place="margin">Rom. 11.</note>
+                  </p>
+                  <p>
+                     <hi>Bleſſed is he that feareth alwayes.</hi>
+                     <note place="margin">Prou. 28.</note>
+                  </p>
+                  <p>I anſwere. <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label>
+                  </p>
+                  <p n="1">1 <hi>To the Prou.</hi> 20.</p>
+                  <p n="1">1 It is true, no man can ſay hee hath purged himſelfe, that commeth from God.</p>
+                  <p n="2">2 No man is throughly clean<g ref="char:EOLhyphen"/>ſed in this life.</p>
+                  <p n="2">2 To that of <hi>Eccleſ.</hi> 9.</p>
+                  <p n="1">1 The Text alledged by the
+<pb n="56" facs="tcp:27525:34"/> 
+                     <hi>Romaniſts</hi> is corrupt.</p>
+                  <p n="2">2 True, none can know by our externall eſtate the condition of the Elect, or Reprobate, becauſe God maketh his ſun to ſhine vpon good and bad. <hi>Mat.</hi> 5. Otherwiſe, by in<g ref="char:EOLhyphen"/>ternall, and externall tokens (as we ſhewed before) <hi>Paul, Iohn, Abraham</hi> knew they were loued of God, and ſo all beleeuers know.</p>
+                  <p n="3">3 To that of <hi>Ionas,</hi> and <hi>Ioel,</hi> wee anſwere.</p>
+                  <p n="1">1 <hi>Who knoweth?</hi> intimateth the difficulty to haue ſuch hainous ſins pardoned, to rouſe them to a ſeri<g ref="char:EOLhyphen"/>ous repentance.</p>
+                  <p n="2">2 Or elſe he ſpeaketh of tempo<g ref="char:EOLhyphen"/>rall bleſſings, which being asked with condition, wee depend on Gods will, as Mat. 8. <hi>If thou wilt thou canſt heale me.</hi>
+                  </p>
+                  <p n="4">4 To that of <hi>Paul.</hi> 1. Cor. 4.4. I an<g ref="char:EOLhyphen"/>ſwer. True, <hi>Paul</hi> was not iuſtified by his workes, though innocent in his Miniſterie.</p>
+                  <p n="5">5 But the laſt teſtimony of <hi>Feare,</hi> ſeemes to croſſe the aſſurance of faith
+<pb n="57" facs="tcp:27525:34"/> diametrially: therefore more labor is here required. And if we breake this ſpeare or ſtaffe, they haue no<g ref="char:EOLhyphen"/>thing left to runne againſt vs, or to leane vpo<g ref="char:cmbAbbrStroke">̄</g>, with any hope of victory.</p>
+                  <p>This will giue <hi>Bellarmine</hi> the lie, &amp; ſtop with a wiſp <hi>Stapletons</hi> crowing throate, that they ſhalbe able to finde nothing henceforth to inſult againſt the Goſpell.<note place="margin">Feare 4.</note>
+                  </p>
+                  <p>Conſider then foure kindes of feare. 1. Natural. 2. Of diſtruſt. 3. Seruile. 4. Filiall.</p>
+                  <p n="1">1 The <hi>Naturall</hi> feare, is an infir<g ref="char:EOLhyphen"/>mitie, but no ſinne, and therefore was found in<note n="a" place="margin">Heb. 5.7</note> Chriſt.</p>
+                  <p n="2">2 That of <hi>diffidence,</hi> is a hainous crime, when we feare man more then God, or truſt man, more then God, and Chriſt. And this is oft ioy<g ref="char:EOLhyphen"/>ned with a ſeruile feare.</p>
+                  <p n="3">3 The <hi>Seruile,</hi> and <hi>Filiall</hi> feare wher<g ref="char:EOLhyphen"/>of is ſpoken Rom. 8. <hi>Differ</hi> thus.</p>
+                  <p n="1">1 In <hi>Subiect:</hi> for that is in the Re<g ref="char:EOLhyphen"/>probate this in the Elect: that in a polluted, this a ſanctified conſcience.</p>
+                  <p n="2">2 In the <hi>Obiect.</hi> For that looketh
+<pb n="58" facs="tcp:27525:35"/> to the puniſhment, this to the ſinne: that commeth after, this goeth be<g ref="char:EOLhyphen"/>fore ſinne: If the wicked feared not Hell, he would harden his heart, and ſell himſelfe to doe euill in Gods ſight: but though there were nei<g ref="char:EOLhyphen"/>ther Heauen nor Hell, the righteous would not ſinne, becauſe it is euill in his owne nature, and offendeth the Maieſtie of ſo good a Father.</p>
+                  <p n="3">3 In <hi>Effects.</hi> For that is full of anguiſh and diſpaire; And there<g ref="char:EOLhyphen"/>fore it maketh <hi>Adam</hi> to flie, <hi>Cain</hi> to forſake Gods ſeruice, and <hi>Iudas</hi> to hang himſelfe. Whereas the o<g ref="char:EOLhyphen"/>ther, begets in vs a great care not to ſin, and a ioy, that we cannot periſh.</p>
+                  <p>
+                     <note place="margin">Simile.</note>As he that fro<g ref="char:cmbAbbrStroke">̄</g> the ſteeple lookes downe-wards, and trembles; but conſidering how hee is fenced, and mured in with battlements, reioy<g ref="char:EOLhyphen"/>ceth in his aſſurance, &amp; layeth hold on them with greater care. Where<g ref="char:EOLhyphen"/>upon the Pſalmiſt ſaith, <hi>Serue the Lord with feare, and reioyce with tremb<g ref="char:EOLhyphen"/>ling</hi>
+                     <note n="a" place="margin">Pſal. 2.</note> There feare and ioy, aſſurance and trembling are ioyned together.</p>
+                  <p n="4">
+                     <pb n="59" facs="tcp:27525:35"/>4 They differ in the <hi>End:</hi> for ſeruile feare deſerueth <hi>death</hi>
+                     <note n="b" place="margin">Reue. 21.8.</note>. But this filial feare maketh a man <hi>happy</hi>
+                     <note n="c" place="margin">Prou. 28.</note>. Feare then is ſo farre from ſhaking my former foundation of confide<g ref="char:cmbAbbrStroke">̄</g>ce, as that it doth rather eſtabliſh it. According to the prouerbe. <hi>Timere qui ſcit, ſcit tuto aggredi.</hi> He that can feare, will make ſure worke.</p>
+                  <p>Now this feare of diſtruſt, or ſer<g ref="char:EOLhyphen"/>uile feare is alwaies condemned in Scripture. <hi>Feare not, O houſe of Iſrael, for I am with thee; be not diſmayed, for I am thy God, I haue redeemed thee, and called thee by thy name, thou art mine</hi>
+                     <note n="d" place="margin">Eſa. 41.</note>.</p>
+                  <p>And this feare God takes away from beleeuers, <hi>That being freed from the hands of all our enemies, wee may ſerue him without feare, in holineſſe and righteouſnes, all the dayes of our liues</hi>
+                     <note n="e" place="margin">Luk. 1.</note>. <hi>For wee haue not receiued the ſpirit of bondage to be againe in feare, but wee haue receiued the ſpirit of adoption, by the which we crie, Abba, Father</hi>
+                     <note n="f" place="margin">Rom. 8.</note>. And therefore Chriſt ſaid to his diſciples,<note n="g" place="margin">Luk. 12.</note> 
+                     <hi>feare not little flocke.</hi> And he <hi>rebuketh them</hi> for this feare<note n="h" place="margin">Mat. 8.</note>. As hee doth
+<pb n="60" facs="tcp:27525:36"/> here <hi>Peter,</hi> ſc: <hi>O man of little faith, &amp;c.</hi>
+                  </p>
+                  <p>Now compare theſe prohibitions with the Romiſh iniunctions, and they agree as fire and water.</p>
+                  <p>And yet this doth not exclude that <hi>filiall feare,</hi> wee owe vnto ſo good a Father: that feare I ſay, which proceedeth from loue, and a<g ref="char:EOLhyphen"/>greeth with Chriſtian humility, or modeſtie, grounded vpon our owne weakeneſſe, and Gods Maieſtie.</p>
+                  <p>Therefore <hi>Paul</hi> exhorts vs <hi>to worke out our ſaluation with feare and trembling</hi>
+                     <note n="i" place="margin">Phil. 2.</note>, becauſe God worketh in vs the will and the deed according to his good pleaſure, we are able to doe nothing of our ſelues.</p>
+                  <p>And hee perſwadeth the Romans <hi>not to be high-minded but feare</hi>
+                     <note n="k" place="margin">Rom. 11</note>, be<g ref="char:EOLhyphen"/>cauſe of Gods iudgements hee had ſent vpon the <hi>Iewes,</hi> who were <hi>Ex<g ref="char:EOLhyphen"/>amples</hi>
+                     <note n="l" place="margin">1. Cor. 10</note> for vs, that we ſhould ſtand by faith, and <hi>feare leſt we fall</hi>
+                     <note n="m" place="margin">1. Cor. 10.</note>, by preſumption as the <hi>Iewes</hi> had done.</p>
+                  <p>And the more wee feare thus in humility in modeſtie, the more wee are aſſured of Gods protection, for
+<pb n="61" facs="tcp:27525:36"/> this is the <hi>head of wiſdome</hi>
+                     <note n="n" place="margin">Prou. 1.</note>, and the <hi>whole of man</hi>
+                     <note n="o" place="margin">Eccleſ. 12.</note>.</p>
+                  <p>And thus wee haue broken our enemies ſpeare to the gantlet, and haue wringed the ſtaffe out of their hands. And if neuertheleſſe they will perfeuer in their feares and doubts; wee may iuſtly reprooue them, as Chriſt doth <hi>Peter. O man of little faith, wherefore didſt thou doubt?</hi>
+                  </p>
+                  <p>And thus much againſt the cer<g ref="char:EOLhyphen"/>tainty of faith.</p>
+               </div>
+               <div type="section">
+                  <head>Obiection againſt perſeuerance.</head>
+                  <p n="3">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ob. </seg>2</label> III. Now they Obiect againſt Perſeuerance, after this manner.</p>
+                  <p>
+                     <hi>When the righteous ſhall forſake his righteouſneſſe &amp;c</hi>
+                     <note n="a" place="margin">Ezech. 18.</note>. <hi>The parable of the ſeed</hi>
+                     <note n="b" place="margin">Luk. 8.</note> 
+                     <hi>&amp;c. Hee ſhalbe cut off,</hi>
+                     <note n="c" place="margin">Ioh. 15.3</note> 
+                     <hi>&amp;c. Charity ſhall waxe cold,</hi>
+                     <note n="d" place="margin">Mat. 24.</note> 
+                     <hi>&amp;c. Many ſhall depart from the faith,</hi>
+                     <note n="e" place="margin">1. Tim. 41.</note> 
+                     <hi>&amp;c. Some haue made ſhipwrake of faith</hi>
+                     <note n="f" place="margin">1. Tim. 1.19.</note>. <hi>It is vnpoſſible that thoſe if they fall, ſhould be renewed vnto repentance</hi>
+                     <note n="g" place="margin">Heb. 6.4.</note>.</p>
+                  <p>Examples. 1. The Diuels. 2. <hi>Ada<g ref="char:cmbAbbrStroke">̄</g>.</hi> 3. <hi>Saul, Dauid, Salomon, Peter, Paul,
+<pb n="62" facs="tcp:27525:37"/> Iudas, Simon Magus, &amp;c.</hi> All fell from grace, therefore there is no aſ<g ref="char:EOLhyphen"/>ſurance for our perſeuerance.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> I anſwere by diſtinguiſhing.
+<list>
+                        <item>1. The righte<g ref="char:EOLhyphen"/>ous.</item>
+                        <item>2. Faith.</item>
+                     </list>
+                  </p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>1</label> 1 There are two kinds of <hi>righteous, the one</hi> in their owne opinion, or the Churches, and ſuch may deceiue, and be deceiued; they may fall finally, &amp; totaly, as <hi>Saul, Iudas, Simon Magus, &amp;c.</hi> and of ſuch Chriſt ſaid, <hi>I came not to call the righteous,</hi>
+                     <note n="h" place="margin">Mat. 9.</note> 
+                     <hi>&amp;c.</hi> Such as the <hi>proud Phariſie</hi>
+                     <note n="i" place="margin">Luk. 18.</note>. And of ſuch <hi>Ezechiel</hi> ſpeaketh. The other are righteous in <hi>truth,</hi> before God, and ſuch if they fall, they ſhall not vtter<g ref="char:EOLhyphen"/>ly be caſt away, <hi>for the Lord vphold<g ref="char:EOLhyphen"/>eth them with his right hand</hi>
+                     <note n="k" place="margin">Pſal. 37.</note> And of ſuch, if you vnderſtand the Prophet <hi>Ezechiel.</hi> The condition <hi>if,</hi> implies not a poſſibility on Gods part, that he will forſake them ſo farre, as to ſuffer them to walke in <hi>all</hi> the waies of the wicked <hi>to the end.</hi>
+                  </p>
+                  <p n="2">2 <hi>Faith</hi> is two-fold, as you haue heard, <hi>quam,</hi> &amp; <hi>qua credimus:</hi> The
+<pb n="63" facs="tcp:27525:37"/> which, and with the which wee be<g ref="char:EOLhyphen"/>leeue. This is <hi>common,</hi> as the <hi>Extraor<g ref="char:EOLhyphen"/>dinary</hi> and miraculous, or <hi>Ordinarie,</hi> as the hiſtoricall, and Temporarie faith. The other is <hi>proper</hi> to the Elect, as the iuſtifying faith.</p>
+                  <p>Many haue forſaken true Religi<g ref="char:EOLhyphen"/>on, and the profeſſion of faith. Nay, they are fallen away from a miracu<g ref="char:EOLhyphen"/>lous, temporarie, and hiſtoricall faith, totaly and finally, as all the hypocrites, and reprobates. But though the Saints haue felt their iu<g ref="char:EOLhyphen"/>ſtifying faith much decayed in te<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLhyphen"/>tations, yet it was neuer rooted out of their hearts, and theſe quames endured not to the end, as you ſee in <hi>Dauid, Peter, Paul</hi> and others.</p>
+                  <p n="3">3 The <hi>Hypocrites</hi> may bee thought in the iudgement of the Church, and in their owne conſcience to bee members of Chriſt, and of his Church. But when the Lord of the Vineyard ſhall begin to prune his vine, and take in hand the ſickle of iuſtice, he will then cut off theſe dead branches that ſeemed to bee
+<pb n="64" facs="tcp:27525:38"/> grafted in the Vine, and caſt them into the fire. For they were in the Church as vermin in a mans head, or as a woodden leg tyed to the body, but drawes not a drop of bloud fro<g ref="char:cmbAbbrStroke">̄</g> thence, and therefore being cut downe, the Church is rather eaſed, then diminiſhed by their loſſe.</p>
+                  <p n="4">4 And as for thoſe that <hi>ſinne a<g ref="char:EOLhyphen"/>gainſt the Holy Ghoſt,</hi> it is impoſſible they ſhould bee renewed vnto re<g ref="char:EOLhyphen"/>pentance. So that all theſe former teſtimonies fight not againſt the na<g ref="char:EOLhyphen"/>ture of iuſtifying faith, and the per<g ref="char:EOLhyphen"/>ſeuerance of the Saints whereof is our queſtion.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>2</label> And as little doe the <hi>Examples</hi> preuaile againſt it.<note place="margin">Example.</note>
+                  </p>
+                  <p>For they alledge the Examples of euill <hi>Angels,</hi> and we ſpeake of men.</p>
+                  <p>They of <hi>Adam</hi> in his Creation, we of man redeemed in Chriſt, who knowes not that their conditions are farre different? And yet <hi>Adam</hi> fell not finally, but was reſtored by grace, <hi>Gen.</hi> 3. And therefore our doctrine is confirmed by this exam<g ref="char:EOLhyphen"/>ple.
+<pb n="65" facs="tcp:27525:38"/> As for <hi>Saul, Achitophel, Iudas, Simon Magus;</hi> They were hypo<g ref="char:EOLhyphen"/>crites, and we ſpeake of the righte<g ref="char:EOLhyphen"/>ous. As for <hi>Dauid, Salomon, Peter, Paul.</hi> They fell grieuouſly, but nei<g ref="char:EOLhyphen"/>ther totally, nor finally, as appeareth by their repentance, and <hi>Salomons Eccleſiaſtes,</hi> and <hi>Peters</hi> bitter Teares, and <hi>Pauls</hi> Conuerſion.</p>
+                  <p>And thus though our aduerſaries mingled examples of diuers natures, and conditions, the wicked with the iuſt, the chaffe with the corne, to delude our eyes, yet you ſee how lit<g ref="char:EOLhyphen"/>tle they haue preuailed. And there<g ref="char:EOLhyphen"/>fore I come to my former Conclu<g ref="char:EOLhyphen"/>ſion, that the righteous are aſſured of perſeuerance, and who doubteth, is guilty of this cenſure. <hi>O man of little faith, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Part. </seg>3</label> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſon. </seg>
+                     </label> Now I come to their <hi>Reaſons:</hi> And they are foure.</p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>1</label> 1 This particular faith is <hi>not com<g ref="char:EOLhyphen"/>prehended in the Creed,</hi> and therefore it is not to be allowed ſay they amongſt Chriſtians.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> 
+                     <hi>Bellarmin</hi> thou neuer kneweſt the
+<pb n="66" facs="tcp:27525:39"/> true meaning of the Chriſtian Creed, though thou takeſt vpon thee to be a chiefe Rabbi in Iſrael. For why doe I confeſſe, that <hi>I do be<g ref="char:EOLhyphen"/>leeue,</hi> but to note my particular faith, hauing <hi>God</hi> for mine <hi>Obiect?</hi> The <hi>Father,</hi> and here note his will and power, both pillars of my faith.</p>
+                  <p>The <hi>Sonne:</hi> where obſerue, his perſon, and offices, with his eſtate of humiliation, and exaltation, the ſpe<g ref="char:EOLhyphen"/>ciall obiect of my faith. And then the <hi>Holy Ghoſt,</hi> the efficient cauſe of faith. Then proceed to the <hi>Catho<g ref="char:EOLhyphen"/>like Church,</hi> of the which I beleeue, I am a true member; and therefore that here I receiue the remiſſion of ſinnes, and hereafter I ſhall riſe in the fleſh to meete Chriſt in the aire, and ſo be made partaker of eternall life in him. Take away this appli<g ref="char:EOLhyphen"/>cation, and you drie vp the verie fountaines of true Chriſtian co<g ref="char:cmbAbbrStroke">̄</g>fort.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>2</label> But why then, ſaith <hi>Bellarmine, do you aske for that you are aſſured of?</hi> Your prayers for remiſſion of ſins, and for ſaluation are in vaine.</p>
+                  <pb n="67" facs="tcp:27525:39"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſ. </seg>
+                     </label> No <hi>Bellarmin</hi> they are not in vaine, but rather meanes, to receiue the bleſſings contained in the pro<g ref="char:EOLhyphen"/>miſes. <hi>Dauid</hi> beleeued the promiſe, that his throne ſhould bee eſtabli<g ref="char:EOLhyphen"/>ſhed for euer, and yet he prayeth for it<note n="a" place="margin">2. Sam. 7</note>, <hi>Elias</hi> beleeued God would ſend raine according to his word, and yet he prayed on the mount for raine<note n="b" place="margin">1. King. 18.</note>.</p>
+                  <p>
+                     <hi>Daniel,</hi> was aſſured God would de<g ref="char:EOLhyphen"/>liuer his people out of <hi>Babylon,</hi> the captiuity of 70. yeares being expi<g ref="char:EOLhyphen"/>red, and yet he prayed for it<note n="c" place="margin">Dan. 9.</note>. <hi>Chriſt</hi> knew he ſhould bee glorified, and thoſe his father had giuen him, and yet hee prayeth his Father to per<g ref="char:EOLhyphen"/>forme it<note n="d" place="margin">Ioh. 17.</note>. <hi>Paul,</hi> knew that one of the ſhip ſhould periſh, and yet hee would not ſuffer the Mariners to ſhip away, &amp; forſake their labour<note n="e" place="margin">Act. 27.</note>. <hi>Ezechias</hi> had a grant of 15. yeares longer to liue, yet muſt hee vſe a plaſter of drie figges for his ſoare<note n="f" place="margin">2. King. 18.</note>. <hi>Wee know</hi> GOD hath a care of vs, and will giue vs our dayly bread, and yet we muſt labour, and pray daily for it.</p>
+                  <pb n="68" facs="tcp:27525:40"/>
+                  <p>This is Gods wiſdome, to make our prayers meet with his bleſſings. Thus mercie and iuſtice doe kiſſe each other. If faith and obedience doe aſcend to glorifie God; grace and peace, ſhal deſcend to ſaue man.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>3</label> Many doe perſwade themſelues they ſhalbe ſaued, <hi>but are deceiued,</hi> for there are many preſumptuous hypocrites, and Atheiſts. No man can know <hi>certitudine fidei,</hi> that hee hath faith and repentance, and ſhall be ſaued. All the <hi>promiſes</hi> of God to this purpoſe are but conditionall, if you beleeue, and perſeuer: therefore none can be aſſured of ſaluation.</p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> 1 If wee ſhould reply the like vpon <hi>Bellarmine,</hi> I know he would not be well pleaſed. There are ſome Fooles, Hypocrites, and Atheiſts at Rome, therefore <hi>Bellarmin</hi> is one of them There haue beene Popes Sor<g ref="char:EOLhyphen"/>cerers and Atheiſts, therefore <hi>Paulus</hi> 5. is one. Who knoweth not, that from a particular to a ge<g ref="char:EOLhyphen"/>nerall affirmatiuely the concluſion followes not? There were fiue
+<pb n="69" facs="tcp:27525:40"/> fooliſh Virgins, but there were alſo fiue wiſe. Some preſumptuous hy<g ref="char:EOLhyphen"/>pocrites do deceiue the<g ref="char:cmbAbbrStroke">̄</g>ſelues, being drunke with their owne conceite; but others, who haue the ſpirit of truth, which is not deafe, dumb, nor dead, but quicke, and burning like fire in their bowels, know of a cer<g ref="char:EOLhyphen"/>tainty that God is their Father, and will ſo continue in Chriſt for euer, and therefore they are bold to crie vnto him, <hi>Abba, Father.</hi>
+                  </p>
+                  <p n="2">2 All the promiſes of God are not conditionall. Thoſe that are eſſentiall to the Goſpell are abſo<g ref="char:EOLhyphen"/>lute, depending of Gods free and effectuall grace. For though hee require faith and repentance as con<g ref="char:EOLhyphen"/>ditions to be ſaued, yet by his Goſ<g ref="char:EOLhyphen"/>pell he conferreth to his Elect theſe graces effectually, and powerfully in his due time: that the glorie may be wholy his.</p>
+                  <p n="3">3 Faith and workes are requi<g ref="char:EOLhyphen"/>red, not as merits, but as the way to ſaluation, <hi>ſunt via regni, non cauſa regnandi.</hi> They are the way to the
+<pb n="70" facs="tcp:27525:41"/> Kingdome of Heauen, not the cauſe why we raigne.</p>
+                  <p n="4">4 We need not <hi>certitudine<g ref="char:cmbAbbrStroke">̄</g> fidei,</hi> a cer<g ref="char:EOLhyphen"/>titude of faith to beleeue the remiſ<g ref="char:EOLhyphen"/>ſion of ſins, but only ſenſe &amp; feeling. As wee need not an other ſoule to perſwade vs wee haue a ſoule, but onely let vs conſult our reaſon and ſenſe, wee ſhall be fully perſwaded that we are men, &amp; liue. And ſo by the roote, groath, and effects of a true iuſtifying faith, wee know that we beleeue, that we are iuſtified, and ſhalbe ſaued.</p>
+                  <p>Thus the Patriarks, Prophets, &amp; Apoſtles knew in whom they had beleeued, and reioyced that their names were written in heauen. And we haue the ſame ſpirit of faith that they had, and therefore we are bou<g ref="char:cmbAbbrStroke">̄</g>d to the ſame duties to glorifie God our Father with our faith. <hi>For wee haue receiued the ſpirit that is of God, that we may know the things that are of God</hi>
+                     <note n="a" place="margin">1. Cor. 2.</note>. And I pray you, is not faith on of the principall. Therfore he ex<g ref="char:EOLhyphen"/>horteth vs, ſaying. <hi>Proue your ſelues
+<pb n="71" facs="tcp:27525:41"/> whether you be in the faith, or no, and if Chriſt in you, vnleſſe you be reprobates</hi>
+                     <note n="b" place="margin">2. Cor. 13.5.</note>. Where you may obſerue theſe 3. things. 1. That wee may know we doe beleeue. 2. That by faith Chriſt dwelleth in our hearts. 3. That he which feeleth not this, is a reprobate.</p>
+                  <p>
+                     <hi>The heart of man is deceitfull aboue all things, and who can know it</hi>
+                     <note n="c" place="margin">Ier. 17.</note>. It is true of an vnregenerate heart, but not of the renued heart, which is ſingle, ſimple, pure, vpright, per<g ref="char:EOLhyphen"/>fect, and hath (as you haue heard) receiued the ſpirit of God to know the things that are of God.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>4</label> But carnal men, cal this <hi>preſumptio<g ref="char:cmbAbbrStroke">̄</g>,</hi> and doubts, they eſteeme as the ver<g ref="char:EOLhyphen"/>tue of humility &amp; perfection of faith.</p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> 1 <hi>Bellarmin,</hi> your too great con<g ref="char:EOLhyphen"/>ceit of your ſelfe, hath put you be<g ref="char:EOLhyphen"/>ſide the truth: you reele like a drunkard, and take white for black, light, for darkeneſſe.</p>
+                  <p>Will you know what preſumpti<g ref="char:EOLhyphen"/>on, and arrogancie is? and doe you hate theſe vices? forſake then your merits, and workes of ſupereroga<g ref="char:EOLhyphen"/>tion,
+<pb n="72" facs="tcp:27525:42"/> your counſels of perfection, &amp; ſuch like.</p>
+                  <p n="2">2 If you account this <hi>preſumption</hi> to beleeue in the Goſpell, and obey Gods commandements, which wee eſteeme Chriſtian <hi>humility</hi> and mo<g ref="char:EOLhyphen"/>deſtie, we may then ſay with <hi>Augu<g ref="char:EOLhyphen"/>ſtin. Bona praeſumptio eſt.</hi> Wee will bee thus preſumptuous ſtill, with the Pa<g ref="char:EOLhyphen"/>triarks, Prophets, Apoſtles, and Saints of God, that our Father may bee honored by our humility, wee may be eternally bleſſed in his wel<g ref="char:EOLhyphen"/>beloued.</p>
+                  <p n="3">3 But you that make the Diuell a Saint that you may worſhip him without remorſe. Obſerue here the <hi>difference</hi> betwixt a carnall, and ſpi<g ref="char:EOLhyphen"/>rituall ſecurity, betwixt preſumptio<g ref="char:cmbAbbrStroke">̄</g>, &amp; the confidence of a true Chriſtian.</p>
+                  <p n="1">1 That is in the reprobrate, and is a vice: this is in the elect, and is a vertue, that comes from the fleſh, this from the ſpirit.</p>
+                  <p n="2">2 That reſteth one it ſelfe, this one God: that one ſurmiſes, this one the Word.</p>
+                  <p n="3">
+                     <pb n="73" facs="tcp:27525:42"/>3 That deſpiſeth the meanes, and yet will enioy the benefit: this vſeth all good means, &amp; by faith depends one Gods prouidence for the iſſue.</p>
+                  <p n="4">4 That comes one a ſuddaine, as a paſſio<g ref="char:cmbAbbrStroke">̄</g> or a flaſh of fire: this groweth vp by degrees, &amp; that very ſlowly.</p>
+                  <p n="5">5 That is raſh, &amp; impudent, this is humble, modeſt, but very iealous.</p>
+                  <p n="6">6 That is licentious, and trouble<g ref="char:EOLhyphen"/>ſome, this is pure and quiet. That is oft drouſie, &amp; a ſleepe, the Diuell keeping his hold: this is oft aſſaulted by Satan, but the iſſue of this warre is peace.</p>
+                  <p n="7">7 That is bold in proſperity, and forſakes in aduerſity, as wee ſee in <hi>Balthaſar, Dan.</hi> 5.9. But this is care<g ref="char:EOLhyphen"/>full in proſperity, and valiant in ad<g ref="char:EOLhyphen"/>uerſity till ſhee ouercome. As the <hi>Palme</hi> tree ſhe reares herſelfe vp the more ſhe is oppreſſed, as <hi>Chriſt</hi> did, who fled vnto his Father<note n="a" place="margin">Mat. 26.</note>. The <hi>diſ<g ref="char:EOLhyphen"/>ciples</hi> to their Maiſter<note n="b" place="margin">Mat. 8.</note>, and <hi>Peter</hi> to his Sauiour<note n="c" place="margin">Mat. 14.</note>, ſo faith neuer ceaſeth giuing and receiuing woonds, till ſhee obtaine the victorie through
+<pb n="74" facs="tcp:27525:43"/> Chriſt, <hi>that ſtrengtheneth her</hi>
+                     <note n="d" place="margin">Phil. 4. Conclu<g ref="char:EOLhyphen"/>ſion.</note>.</p>
+                  <p>Thus hauing ſtripped our aduer<g ref="char:EOLhyphen"/>ſaries of all their weapons, and hun<g ref="char:EOLhyphen"/>ted them out of their lurking holes. Let vs returne to our fortreſſe: And with a garland of <hi>bayes</hi> on our fore<g ref="char:EOLhyphen"/>heads, and a <hi>palme</hi> in our hands, let vs ſing praiſes vnto our <hi>Michael</hi> for this glorious victorie ouer the Dra<g ref="char:EOLhyphen"/>gon and his angels, and let vs bee aſhamed of our manifold infirmities and doubts, whereby God is diſho<g ref="char:EOLhyphen"/>nored, Chriſt denied, and our con<g ref="char:EOLhyphen"/>ſciences troubled: and let this re<g ref="char:EOLhyphen"/>proch euer ring in our eares to quic<g ref="char:EOLhyphen"/>ken vs; <hi>O man of little faith, &amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Vſus.</head>
+                  <p n="4">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Vſe. </seg>
+                     </label> IIII. (Right honorable, Right worſhipfull, and welbeloued) I haue by Gods grace,<note place="margin">1. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Reproofe.</note> and your honorable patience, layed open the error of the Romiſh Church in this one ar<g ref="char:EOLhyphen"/>ticle of the aſſurance of our Chriſti<g ref="char:EOLhyphen"/>an faith, Iudge you of their obſtina<g ref="char:EOLhyphen"/>cie, and you ſhall conceiue of their malice, as was ſpecified at the be<g ref="char:EOLhyphen"/>ginning of this Controuerſie. The
+<pb n="75" facs="tcp:27525:43"/> ſumme of all, will ſhadow out vnto your vnderſtandings, the power &amp; malice of Satan, with the miſerie of Romiſh Catholikes<note n="a" place="margin">Eph. 2.</note>, <hi>the children of diſobedience,</hi> who haue <hi>loued darke<g ref="char:EOLhyphen"/>neſſe better then light</hi>
+                     <note n="b" place="margin">Ioh. 3.</note>. Then compare their Clergie with ours, you wil cry out. Twice &amp; thrice happy <hi>England,</hi> by reaſon of the Goſpell. <hi>For heere euery ſoule ſubmits her ſelfe to higher powers</hi>
+                     <note n="c" place="margin">Rom. 13.</note>, according to the Word, <hi>Rom.</hi> 13.1. The reuerend fathers of this Church waſte the<g ref="char:cmbAbbrStroke">̄</g>ſelues as can<g ref="char:EOLhyphen"/>dles to giue light vnto others: the inferour Miniſters labour to ſettle your conſciences in the peace of God, though many wage warre a<g ref="char:EOLhyphen"/>gainſt them for their paines. This Goſpell of ſaluation brings peace to your conſciences, ioy to your fami<g ref="char:EOLhyphen"/>lies, wealth to your cities, and glory to this nation. Take notice of this bleſſing, and giue God the praiſe.</p>
+                  <p>Thoſe that aſſure you in your tem<g ref="char:EOLhyphen"/>poralities, require a duetie at your hands, and that with good reaſon: But for my part, hauing aſſured your
+<pb n="76" facs="tcp:27525:44"/> ſpirituall eſtate before God, all the acknowledgement I deſire is, that you would honour my Miniſterie this day with obedie<g ref="char:cmbAbbrStroke">̄</g>ce to this Goſ<g ref="char:EOLhyphen"/>pell, that through my perſwaſion, you would hold <hi>doubts,</hi> as fruits of the fleſh, and no part of faith, wor<g ref="char:EOLhyphen"/>thy of this cenſure. <hi>O man of little faith wherefore didſt thou doubt?</hi>
+                  </p>
+                  <p>And if any in this noble company hath heretofore graced the Romiſh Religion with their approbations, let the<g ref="char:cmbAbbrStroke">̄</g> diſtaſt it hence-forth, know<g ref="char:EOLhyphen"/>ing it is not able by their owne con<g ref="char:EOLhyphen"/>feſſion to giue any ſound comfort to a Chriſtian conſcience. And if it maintained no other error, this were ſufficient <hi>in Luthers</hi> iudgement<note n="a" place="margin">Luth. in Gen. 41.</note>, to withdraw our ſelues from it. For e<g ref="char:EOLhyphen"/>uery Religion hath ſome doubts, but <hi>to command ignorance and diſtruſt as vertues,</hi> this is to liue vnder a per<g ref="char:EOLhyphen"/>petuall <hi>curſe</hi>
+                     <note n="b" place="margin">Eſa. 5.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>. Therfore you that are yet intangled in the ſnares of ſuper<g ref="char:EOLhyphen"/>ſtition, and in Gods election are the people of the Lord, <hi>come out of Baby<g ref="char:EOLhyphen"/>lon</hi>
+                     <note n="c" place="margin">Reu. 18.</note>. <hi>Saue your ſelues from that wic<g ref="char:EOLhyphen"/>ked
+<pb n="77" facs="tcp:27525:44"/> generation</hi>
+                     <note n="d" place="margin">Act. 2.</note>: And <hi>be not partakers of other mens ſins.</hi>
+                     <note n="e" place="margin">1. Tim. 5.2. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Correcti<g ref="char:EOLhyphen"/>on.</note> But whilſt I la<g ref="char:EOLhyphen"/>bour to roote out hereſie out of the hearts of obſtinate Papiſts. The pre<g ref="char:EOLhyphen"/>ſumptuous hypocrite, had almoſt eſ<g ref="char:EOLhyphen"/>caped my cenſure. Come hither thou diſſembling Proteſtant, and cloſe Atheiſt, ſtay &amp; take thy leſſon with thee. Much hath beene ſaid of the nature of faith, <hi>but thou haſt no part, nor lot in this buſineſſe, vnleſſe thou repent, for thou art captiue in the ſnares of Satan, and in gaule of bitterneſſe</hi>
+                     <note n="f" place="margin">Act. 8.</note>.</p>
+                  <p>Thou ſaiſt thou beleeueſt, that thy heart is aſſured, that thou feareſt no man, no not the Diuell, that thou didſt neuer doubt of thy ſaluation. Hypocrite thy heart is not right be<g ref="char:EOLhyphen"/>fore God. It cannot <hi>indite a good word</hi>
+                     <note n="g" place="margin">Pſ. 45.1.</note>, and thy workes are for the diuell. Thou approcheſt to GOD with thy lips, <hi>but thy heart is farre from him</hi>
+                     <note n="h" place="margin">Eſa. 49.</note>. Thy peace is a carnall ſecurity; The diuell rockes thee a ſleepe, that thou maiſt not auoide the perill. If thou neuer haſt any doubts, thou neuer kneweſt what
+<pb n="78" facs="tcp:27525:45"/> faith ment, and the combat of the fleſh with the ſpirit. Thou knoweſt neither thy ſelfe, nor thine enemies.</p>
+                  <p>Let my aduiſe pleaſe you at this houre. <hi>Pray God, that if it be poſſible this wickedneſſe may be pardoned</hi>
+                     <note n="k" place="margin">Act. 8.</note>. Did you neuer heare of <hi>Peters</hi> preſu<g ref="char:cmbAbbrStroke">̄</g>ption? Or to come nerer vnto you. Looke vnto <hi>Saul, Achitophell, Iudas, Simon Magus,</hi> and by their falls labour to ſtand; by their finall deſtruction, ſtriue to ſaue thy ſoule. And therefore vnto you I ſay; <hi>Behold the ſeuerity, and good<g ref="char:EOLhyphen"/>neſſe of God. His ſeuerity on them that are fallen, his goodneſſe towards thee if thou perſeuereſt in his goodneſſe, other<g ref="char:EOLhyphen"/>wiſe thou ſhalt alſo be cut off. Therefore be not high-minded, but feare</hi>
+                     <note n="l" place="margin">Rom. 11.</note>.</p>
+                  <p>
+                     <note place="margin">3. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Comfort.</note>But whilſt I reaſon with the hy<g ref="char:EOLhyphen"/>pocrite <hi>to ſnatch him as a fire-brand out of the fire</hi>
+                     <note n="m" place="margin">Iud. 6.</note>. I ſee the weake Chriſtian inclyning to diſpaire. To applie then this <hi>balme of Gilead</hi> to the ſoares of Gods people for whom it was prepared. Let mee talke with thee a while.</p>
+                  <p>Deare brother, what feareſt thou?
+<pb n="79" facs="tcp:27525:45"/> 
+                     <hi>that Gods mercies are ſhut vp in diſplea<g ref="char:EOLhyphen"/>ſure</hi>
+                     <note n="n" place="margin">Pſal. 77.</note>? Harken what the Lord ſaith<note n="o" place="margin">Eſa. 54.7.8.</note>. <hi>I haue forſaken thee for a moment, but with great mercies will I gather you. A little while haue I hid my face from thee in the time of my diſpleaſure, but with euerlaſting kindneſſe will I returne vnto thee, ſaith the Lord, who hath mercie on thee.</hi> What feareſt thou? That thou art not worthy of Gods fauours? If thou wert worthy, grace ſhould not be grace: But harken: <hi>I, euen I, am he that blotteth out thy ſinnes for mine owne names ſake</hi>
+                     <note n="p" place="margin">Eſa. 43.</note>. What feareſt thou then? that thy ſinnes are infinite? Know that <hi>where ſinne aboundeth, there grace doth ſur-abound</hi> 
+                     <hi rend="sup">p</hi>.<note n="q" place="margin">Rom. 5.</note> What feareſt thou yet? that God hath for<g ref="char:EOLhyphen"/>gotten thee? Behold, <hi>though a mo<g ref="char:EOLhyphen"/>ther ſhould forget the fruit of her wombe, yet I will not forget thee, O Sion, ſaith the Lord</hi>
+                     <note n="r" place="margin">Eſa. 49.14.</note>. What feareſt thou? that God hath altered his affection? <hi>The mountaines paſſe, and the hills are re<g ref="char:EOLhyphen"/>mooued, but my kindneſſe ſhall not paſſe, nor the Couenant of my peace bee remoo<g ref="char:EOLhyphen"/>ued, ſaith the Lord, that hath compaſſion
+<pb n="80" facs="tcp:27525:46"/> one thee</hi>
+                     <note n="ſ" place="margin">Eſa 54.10.</note>. But yet thou ſhakeſt more then before. What feareſt thou? That God is iuſt! know that <hi>God hath made him which knew no ſinne, to be ſinne for vs, that we might be the righteouſneſſe of God in him</hi>
+                     <note n="t" place="margin">2. Cor. 5.</note>. But Chriſt died not for me. Art thou not a ſinner? nay loaden with the bur<g ref="char:EOLhyphen"/>den of ſin? then hearken, <hi>This word is certaine, and worthy to be receiued, that Chriſt came into the world to ſaue ſin<g ref="char:EOLhyphen"/>ners,</hi>
+                     <note n="u" place="margin">1. Tim. 1.5.</note> 
+                     <hi>I am not come to call the righte<g ref="char:EOLhyphen"/>ous, but ſinners to repentance</hi>
+                     <note n="x" place="margin">Mat. 9.</note>. <hi>Come vnto me all yee that are heauy loaden, &amp; I will eaſe you</hi>
+                     <note n="y" place="margin">Mat. 11.</note>. Either then thou art partaker of Chriſts merits, and in him aſſured of thy ſaluation. Or Chriſt is not a perfect Ieſus, and the Goſpell is a fable. Therefore be of good courage deare brother, gather thy ſpirits againe, returne to the bat<g ref="char:EOLhyphen"/>tel. <hi>O man of little faith, wherfore &amp;c.</hi>
+                  </p>
+                  <p>But yet my thinks thy face is caſt downe, more then before, what fea<g ref="char:EOLhyphen"/>reſt thou? that thy faith and repen<g ref="char:EOLhyphen"/>tance are but fained? Hearken, thy heart is bruſed, thy ſpirit humbled,
+<pb n="81" facs="tcp:27525:46"/> thy lips confeſſe, thy deſire aſpireth to God-wards, &amp; wouldſt not com<g ref="char:EOLhyphen"/>mit the leaſt ſinne for a thouſand worlds: then be of good cheere: thy faith is true, thy repentance ſound, thy ſinnes are forgiuen the, <hi>thy faith hath ſaued thee, goe in peace</hi>
+                     <note n="a" place="margin">Luk. 7.</note>. What feareſt thou yet? that thou haſt loſt this faith? It may be decayed, but not finally loſt: <hi>For ſuch guifts of God are without repentance</hi>
+                     <note n="b" place="margin">Rom. 11.</note>. But why doth thy heart melt within thee, why is thy countenance caſt downe without? Feeleſt thou no comfort from God, ſeeſt thou no fruit of thy faith? Thy temptation is great,<note place="margin">Heb. 6.</note> deare brother, yet hold faſt the <hi>An<g ref="char:EOLhyphen"/>chor</hi> of thy hope. Thou art in a ſou<g ref="char:cmbAbbrStroke">̄</g>d, but not dead. The <hi>ſeed of grace</hi>
+                     <note n="c" place="margin">1. Ioh. 3.</note> is within you, though the fruit appeare not as yet.<note place="margin">Similie.</note> Thou art in the <hi>winter</hi> of thine affliction, ſtay till thy ſpring returne, and then thou ſhalt ſee the greene blade puſh out of the earth, and ſhalt enioy the fruit of thy heart. The <hi>heate</hi> of Gods wroth hath dried vp the waters of comfort, but let
+<pb n="82" facs="tcp:27525:47"/> hot Summer paſſe, then the liuing waters of Gods ſpirit ſhall refreſh thy ſoule, and <hi>ſpring vp to life euer<g ref="char:EOLhyphen"/>laſting</hi>
+                     <note n="d" place="margin">Ioh. 4.</note>. The <hi>ſparkes</hi> of repentance are hid vnder the aſhes of temptati<g ref="char:EOLhyphen"/>on, the winde of Gods ſpirit will blow ouer the aſhes, &amp; quicken the coales of zeale in his due time. The <hi>beames</hi> of Gods fauour are hin<g ref="char:EOLhyphen"/>dred by the cloud of thy ſins, and he hath <hi>wrapped himſelfe vp in a cloud</hi>
+                     <note n="e" place="margin">Lam. 3.</note>, that thy prayers ſhould not paſſe. But waight a while. The Lord is faithfull, who hath promiſed, <hi>He will come, and will not tarry</hi>
+                     <note n="f" place="margin">Abbac. 2</note>. Beleeue a<g ref="char:EOLhyphen"/>gainſt ſenſe and reaſon as <hi>Abraham</hi> did<note n="g" place="margin">Rom. 4.</note>, for faith is an <hi>euidence of things not ſeene</hi>
+                     <note n="h" place="margin">Heb. 11.1.</note>, know that thy ſaluation conſiſts more <hi>in Gods apprehention</hi> then in thine<hi rend="sup">f</hi>.<note n="i" place="margin">Phil 3.</note> In that <hi>God knowes thee</hi>
+                     <note n="k" place="margin">Tim: 2.</note>, then in thy knowledge of God, for alas <hi>this is vnperfect, but that is perfect</hi>
+                     <note n="l" place="margin">Cor. 13.</note>, though all ſenſe of grace faile on thy ſide, yet thinke not that your vnbeleefe can make <hi>the faith of God without effect</hi>
+                     <note n="m" place="margin">Rom. 3.3.</note>. Looke on the Example of the Saints as <hi>Iob, Dauid,
+<pb n="83" facs="tcp:27525:47"/> &amp;c.</hi> who haue bin in the like temp<g ref="char:EOLhyphen"/>tations, and yet haue bin deliuered in an acceptable time. Conſider thy wayes of olde, the dayes of ſolace wherein thou tookeſt thy delight, &amp; remember that ſauing grace cannot finally be loſt, <hi>Bee not faithleſſe then, but beleeue</hi>
+                     <note n="n" place="margin">Ioh. 20.</note>. O ſweete words! <hi>O how beautifull vpon the mountaines are the feete of thoſe that bring good ti<g ref="char:EOLhyphen"/>dings</hi>
+                     <note n="o" place="margin">Eſa. 50.</note> My heart is reuiued, &amp; my ſpirits cheered, bleſſed be the Lord, who hath ſent his Meſſenger to ſpeake a word in ſeaſon to the di<g ref="char:EOLhyphen"/>ſtreſſed conſcience. Hence-forth I will ſing vnto the God of my ſalua<g ref="char:EOLhyphen"/>tion. <hi>O man of little faith, wherefore did I doubt?</hi> But yet, lend mee thy hand againe, for my faith is weake. Behold, the mercies of the Lord are infinite. <hi>He will not bruſe the broken reed, nor quench the ſmoaking flaxe</hi>
+                     <note n="p" place="margin">Mat. 12.</note>. If onely thou canſt, <hi>hunger, and thurſt after righteouſneſſe thou ſhalt be ſatisfi<g ref="char:EOLhyphen"/>ed</hi>
+                     <note n="q" place="margin">Mat. 5.</note>. And if thy faith bee but as a <hi>graine of muſtard ſeed</hi>
+                     <note n="r" place="margin">Mat. 17.</note> for quantity, yet it ſhalbe of ſuch vertue for qua<g ref="char:EOLhyphen"/>lity,
+<pb n="84" facs="tcp:27525:48"/> that it may ſay to the moun<g ref="char:EOLhyphen"/>taines of thy ſins, caſt thee into the ſea of Gods free grace, and they ſhal appeare no more before God to op<g ref="char:EOLhyphen"/>preſſe thee.</p>
+                  <p>And ſo I leaue thee, deare bro<g ref="char:EOLhyphen"/>ther, recouering thy ſpirits. They ſay <hi>Diſeaſes come a horſe-backe, but goe a<g ref="char:EOLhyphen"/>way a foote.</hi> Finde it not ſtrange then, if thou pauſeſt a while in thy weakeneſſe.<note place="margin">Simile.</note> Hee that com<g ref="char:EOLhyphen"/>meth out of a <hi>dungeon,</hi> cannot ſo ſoone behold the Sunne. Hee that is new come a <hi>land,</hi> thinkes for a while that the earth ſhaketh. After a <hi>tem<g ref="char:EOLhyphen"/>peſt,</hi> the waues are not ſo ſoone ſet<g ref="char:EOLhyphen"/>led. Therefore walke one in your weakeneſſe, and you ſhall grow vp <hi>from ſtrength to ſtrength</hi>
+                     <note n="ſ" place="margin">Pſal. 84.</note>, til you come to the <hi>perfect ſtature</hi>
+                     <note n="t" place="margin">Eph. 4.</note>, of Chriſt in heauen.</p>
+                  <p>
+                     <note place="margin">4. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Exhort.</note>And now <hi>to conclude</hi> with you (right Honorable, Right worſhip<g ref="char:EOLhyphen"/>full and welbeloued) who ſtand by faith, who are fed with ſtronger meates, whoſe hearts are repleniſh<g ref="char:EOLhyphen"/>ed with the fatneſſe and marrow of
+<pb n="85" facs="tcp:27525:48"/> Gods houſe; whoſe ſpirits are wed<g ref="char:EOLhyphen"/>ded vnto the Lord, and who medi<g ref="char:EOLhyphen"/>tate in his Law day and night.</p>
+                  <p>Goe on, goe on in this Chriſtian courſe. <hi>Be ſure and ſtedfaſt, abounding alwaies in the workes of the Lord, know<g ref="char:EOLhyphen"/>ing that your labour is not vaine in the Lord</hi>
+                     <note n="u" place="margin">1. Cor. 15.</note> You doe honor God with your faith, for you ſeale his truth, &amp; acknowledge him to bee the true God, infinite in wiſdome, iuſtice, mercie, and power. Be aſſured hee will honor you, for ſaith the Lord. <hi>Them that honour me, will I honor, and they that deſpiſe me, ſhalbe lightly eſtee<g ref="char:EOLhyphen"/>med</hi>
+                     <note n="x" place="margin">1. Sam 2.30.</note>. And thus will he honor you. <hi>He will come and dwell with you</hi>
+                     <note n="y" place="margin">Ioh. 14.</note>. <hi>Hee will ſup with you, and you with him</hi>
+                     <note n="z" place="margin">Reu. 3.</note>. And loe, hee will not come with an empty hand, but as Chriſt brought ſaluation to <hi>Zacheus</hi> his houſe; ſo will hee bring <hi>peace</hi> to your ſoules, and <hi>ioy</hi> in the Holy Ghoſt<note n="a" place="margin">Rom. 14</note>, <hi>which paſſeth all vnderſtanding</hi>
+                     <note n="b" place="margin">Phil. 4.</note>. And ſo he will leaue peace in your families, proſperity in your Pallaces, and bleſſings in the Church. And ha<g ref="char:EOLhyphen"/>uing
+<pb n="86" facs="tcp:27525:49"/> 
+                     <hi>fought the good fight, finiſhed your courſe, and kept this faith, the crowne of righteouſneſſe ſhalbe giuen you in that day by the iuſt Iudge</hi>
+                     <note n="c" place="margin">2. Tim. 4.</note>, and at your de<g ref="char:EOLhyphen"/>parture out of this world, you ſhall ſay; <hi>Now letteſt thou thy ſeruant de<g ref="char:EOLhyphen"/>part in peace according to thy word</hi>
+                     <note n="d" place="margin">Luk. 2.</note>, and GOD will anſwere you as Chriſt did to the theefe one the croſſe; <hi>This day thou ſhalt be with me in Para<g ref="char:EOLhyphen"/>diſe</hi>
+                     <note n="e" place="margin">Luk. 24.</note>.</p>
+               </div>
+            </div>
+            <trailer>Grant this O Lord for thy Sonnes ſake. <hi>Amen.</hi>
+            </trailer>
+            <pb facs="tcp:27525:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
